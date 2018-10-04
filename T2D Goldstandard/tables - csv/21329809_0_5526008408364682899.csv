@@ -1,0 +1,157 @@
+City,City population,Country,Mayor,Metro population,World rank
+RIYADH,"4,950,000",Saudi Arabia,Abdul Aziz ibn 'Ayyaf Al Migrin,"5,855,000",40
+Jeddah,"3,856,000",Saudi Arabia,Adil Faqeeh,"4,500,000",54
+Mecca,"1,700,000",Saudi Arabia,Osama Al-Bar,"2,500,000",177
+Medina,"1,300,000",Saudi Arabia,Abdulaziz Bin Majid,"1,300,000",291
+Ad-Dammam,"813,000",Saudi Arabia,Dhaifallah al-'Utaybi,"2,051,000",484
+Dammam,"812,000",Saudi Arabia,Dhaifallah al-'Utaybi,"2,000,000",485
+Al-Hufuf,"286,000",Saudi Arabia,n/k,"784,000",n/r
+Pikine-Guediawaye,"1,200,000",Senegal,n/k,,325
+DAKAR,"1,031,000",Senegal,Khalifa Sall,"2,253,000",397
+FREETOWN,"1,032,000",Sierra Leone,Herbert-George Williams,"1,032,000",395
+SINGAPORE,"4,988,000",Singapore,Lee Hsien Loong,,39
+BRATISLAVA,"431,000",Slovak Republic,Milan Ft�cnik,"550,000",n/r
+MOGADISHU,"1,500,000",Somalia,Mohamud Ahmed Tarzan,"2,500,000",218
+Johannesburg,"3,888,000",South Africa,Amos Masondo,"10,268,000",53
+Cape Town,"3,497,000",South Africa,Patricia de Lille,"7,280,000",66
+TSHWANE (PRETORIA),"1,530,000",South Africa,Gwen Ramokgopa,"2,346,000",209
+Soweto,"923,000",South Africa,Amos Masondo (Johannesburg),,436
+Port Elizabeth,"833,000",South Africa,Nondumiso Maphasi,"1,245,000",471
+Durban,"670,000",South Africa,Obed Mlama,"3,468,000",554
+Vereeniging,"385,000",South Africa,n/k,"774,000",n/r
+SEOUL,"11,153,000",South Korea,Oh Se-hoon,"24,472,000",8
+Busan,"3,600,000",South Korea,Hur Nam-sik,"4,292,000",63
+Incheon,"2,630,000",South Korea,Song Young-gil,"2,630,000",96
+Daegu,"2,512,000",South Korea,Kim Bum-il,,105
+Daejeon,"1,443,000",South Korea,Yum Hong-chul,,239
+Gwangju,"1,415,000",South Korea,Kang Un-tae,"1,500,000",250
+Ulsan,"1,127,000",South Korea,Bak Maeng-woo,,356
+Suwon,"1,087,000",South Korea,n/k,,375
+Goyang,"1,073,000",South Korea,n/k,,378
+Seongnam,"1,073,000",South Korea,n/k,,379
+Bucheon,"850,000",South Korea,n/k,"850,000",465
+Changweon,"486,000",South Korea,n/k,"1,254,000",n/r
+MADRID,"3,213,000",Spain,Alberto Ruiz-Gallard�n,"5,300,000",73
+Barcelona,"1,673,000",Spain,Jordi Hereu,"3,890,000",182
+Valencia,"810,000",Spain,Rita Barber� Nolla,"1,720,000",489
+Sevilla,"704,000",Spain,lfredo S�nchez Monteseir�n,"1,135,000",537
+Bilbao,"351,000",Spain,I�zki Azkuna,"879,000",n/r
+COLOMBO,"650,000",Sri Lanka,Uvais Mohamed Imitiyas,"2,400,000",561
+Omdurman,"2,400,000",Sudan,Al-Fatih Az-ddin,,118
+KHARTOUM,"2,208,000",Sudan,Abdul Rahman Alkheder,"7,500,000",129
+STOCKHOLM,"826,000",Sweden,Sten Nordin,"1,252,000",475
+Gothenburg,"506,000",Sweden,Anneli Hulth�n,"916,000",n/r
+Malmo,"244,000",Sweden,Ilmar Reepalu,"1,340,000",n/r
+Zurich,"333,000",Switzerland,Corine Mauch,"965,000",n/r
+Aleppo,"2,360,000",Syria,Ma'an Al-Shibli,"3,000,000",120
+DAMASCUS,"1,670,000",Syria,Bishr Al Sabban,"4,350,000",183
+Hims,"823,000",Syria,Nadia Kseibi,,476
+Hama,"325,000",Syria,Abdul Razzaq al-Qutainy,"1,500,000",n/r
+TAIPEI,"2,620,000",Taiwan,Hau Lung-pin,"6,753,000",98
+Kaohsiung,"1,530,000",Taiwan,Chen Chu,"2,960,000",208
+Taichung,"1,065,000",Taiwan,Jason Hu,"2,700,000",384
+Tainan,"769,000",Taiwan,Hsu Tain-tsair,"785,000",512
+DUSHANBE,"680,000",Tajikistan,Mahmadsaid Ubaydulloyev,"810,000",550
+DAR ES SALAAM,"2,498,000",Tanzania,Adam Kimbisa,"2,700,000",110
+BANGKOK,"9,100,000",Thailand,Sukhumbhand Paribatra,"11,970,000",13
+TUNIS,"1,200,000",Tunisia,Abb�s Mohsen,"3,980,000",327
+Istanbul,"9,560,000",Turkey,Kadir Topbas,"12,600,000",12
+ANKARA,"3,764,000",Turkey,Melih G�k�ek,"4,000,000",57
+Izmir,"2,330,000",Turkey,Aziz Kocaoglu,"3,200,000",122
+Bursa,"1,400,000",Turkey,Recep Altepe,"3,190,000",253
+Adana,"1,162,000",Turkey,Ayta� Durak,"1,556,000",340
+Gaziantep,"927,000",Turkey,n/k,"1,912,000",434
+Dubai,"1,089,000",UAE,n/k,"2,100,000",374
+ABU DHABI,"897,000",UAE,Khalifa bin Zayed Al Nahyan,,451
+KAMPALA,"1,420,000",Uganda,Nasser Sebaggala,"1,600,000",247
+LONDON,"7,557,000",UK,Boris Johnson,"12,200,000",23
+Birmingham,"1,017,000",UK,Mike Whitby,"2,284,000",401
+Leeds,"778,000",UK,Paul Rogerson,"1,500,000",510
+Glasgow,"581,000",UK,n/k,"1,200,000",578
+Sheffield,"535,000",UK,Paul Scriven,"640,000",599
+Manchester,"464,000",UK,Mavis Smitheman,"2,240,230",n/r
+Liverpool,"435,000",UK,n/k,"817,000",n/r
+Newcastle upon Tyne,"234,000",UK,n/k,"800,000",n/r
+KIEV,"2,820,000",Ukraine,Alexander Popov,"3,300,000",84
+Kharkiv,"1,461,000",Ukraine,Mykhailo Dobkin,"1,674,000",228
+Donetsk,"1,100,000",Ukraine,Oleksandr Lukianchenko,"1,570,000",366
+Odessa,"1,080,000",Ukraine,Eduard Gurwits,"1,200,000",377
+Dnipropetrovsk,"1,040,000",Ukraine,Ivan Ivanovych Kulichenko,"1,480,000",394
+Zaporizhzhya,"782,000",Ukraine,Yevgeni Kartashov,,508
+Lviv,"740,000",Ukraine,Andriy Sadovyi,"1,040,000",524
+MONTEVIDEO,"1,326,000",Uruguay,Ana Olivera,"1,723,000",285
+New York City,"8,364,000",USA,Michael Bloomberg,"20,090,000",17
+Los Angeles,"3,834,000",USA,Antonio Villaraigosa,"12,890,000",55
+Chicago,"2,853,000",USA,Rahm Emanuel,"8,770,000",82
+Houston,"2,242,000",USA,Annise Parker,"5,728,000",126
+Phoenix,"1,568,000",USA,Phil Gordon,"4,282,000",199
+Philadelphia,"1,540,000",USA,Michael Nutter,"5,345,000",205
+San Antonio,"1,351,000",USA,Julian Castro,"2,031,000",276
+Dallas,"1,280,000",USA,Tom Leppert,"6,300,000",302
+San Diego,"1,280,000",USA,Jerry Sanders,"3,001,000",305
+San Jose,"1,007,000",USA,Chuck Reed,"1,819,000",409
+Detroit,"912,000",USA,Dave Bing,"3,903,000",441
+Norfolk,"850,000",USA,Paul D Fraim,"1,616,000",466
+San Francisco,"809,000",USA,n/k,"3,229,000",491
+Jacksonville,"808,000",USA,John Peyton,"1,300,000",493
+Indianapolis,"798,000",USA,Gregory A. Ballard,"1,715,000",502
+Columbus,"714,000",USA,Michael B Coleman,"1,540,000",531
+Austin,"681,000",USA,Lee Leffingwell,"1,185,000",548
+Memphis,"670,000",USA,AC Wharton,"1,281,000",555
+Baltimore,"667,000",USA,Stephanie C. Rawlings-Blake,"2,670,000",556
+Nashville,"626,000",USA,Karl Dean,"1,633,000",565
+Boston,"621,000",USA,Thomas Menino,"4,033,000",566
+Milwaukee,"604,000",USA,Tom Barrett,"1,740,000",569
+WASHINGTON DC,"600,000",USA,Vincent Gray,"5,300,000",571
+Denver,"583,000",USA,John W Hickenlooper,"2,746,000",576
+Seattle,"578,000",USA,Mike McGinn,"3,584,000",581
+Charlotte,"559,000",USA,Anthony Foxx,"1,466,000",585
+Las Vegas,"558,000",USA,Oscar B Goodman,"1,866,000",586
+Oklahoma City,"551,000",USA,Mick Cornett,"1,276,000",588
+Portland,"542,000",USA,Sam Adams,"2,255,000",596
+Tucson,"542,000",USA,Bob Walkup,"720,000",597
+Atlanta,"538,000",USA,Kasim Reed,"3,500,000",598
+Fresno,"500,000",USA,Ashley Swearengin,"1,000,000",n/r
+New Orleans,"488,000",USA,Mitch Landrieu,"1,350,000",n/r
+Kansas City,"480,000",USA,Mark Funkhouser,"2,050,000",n/r
+Oakland,"446,900",USA,Jean Quan,,n/r
+Cleveland,"434,000",USA,Frank G. Jackson,"2,250,000",n/r
+Sacramento,"419,000",USA,Kevin Johnson,"1,000,000",n/r
+Tulsa,"399,000",USA,"Dewey F. Bartlett, Jr","813,000",n/r
+Raleigh,"393,000",USA,Charles Meeker,"1,691,000",n/r
+Minneapolis,"392,000",USA,R T Rybak,"3,503,000",n/r
+Miami,"386,000",USA,Tom�s Regalado,"5,413,000",n/r
+Cincinnati,"380,000",USA,Mark L. Mallory,"2,155,000",n/r
+St. Louis,"372,000",USA,Francis G Slay,"2,850,000",n/r
+Saint Louis,"371,000",USA,Francis G. Slay,"2,850,000",n/r
+Honolulu,"370,000",USA,Peter Carlisle,"894,000",n/r
+Tampa,"341,000",USA,Pam Iorio,"2,700,000",n/r
+Pittsburgh,"335,000",USA,Luke Ravenstahl,"2,411,000",n/r
+Buffalo,"296,000",USA,Byron Brown,"1,572,000",n/r
+Louisville,"260,000",USA,Jerry Abramson,"1,040,000",n/r
+Greensboro,"256,000",USA,Bill Knight,"710,000",n/r
+Birmingham,"245,000",USA,William A. Bell,"1,200,000",n/r
+Orlando,"231,000",USA,Buddy Dyer,"2,055,000",n/r
+Rochester,"220,000",USA,n/k,"1,100,000",n/r
+Richmond,"200,000",USA,Dwight Clinton Jones,"1,213,000",n/r
+Grand Rapids,"193,000",USA,George Heartwell,"777,000",n/r
+Salt Lake City,"188,000",USA,Ralph Becker,"1,677,000",n/r
+Dayton,"167,000",USA,n/k,"848,000",n/r
+MacAllen,"110,000",USA,n/k,"1,058,000",n/r
+Albany,"96,000",USA,Gerald Jennings,"1,100,000",n/r
+TASHKENT,"2,180,000",Uzbekistan,Abdukahar Tuhtayev,"3,400,000",132
+CARACAS,"2,762,000",Venezuela,Antonio Ledezma,"3,478,000",87
+Maracaibo,"1,799,000",Venezuela,Eveling Trejo,"1,868,000",164
+Barquisimeto,"1,500,000",Venezuela,Amalia Saez,"1,500,000",214
+Valencia,"1,200,000",Venezuela,Edgardo Parra,"1,750,000",328
+Ciudad Guayana,"940,000",Venezuela,Jos� Ram�n Lop�z,"1,000,000",431
+Maracay,"479,000",Venezuela,Humberto Prieto,"1,125,000",n/r
+Ho Chi Minh City,"7,100,000",Vietnam,Pham Phuong Thao,,26
+Haiphong,"1,885,000",Vietnam,Trinh Quang Su,"1,885,000",151
+HANOI,"1,372,000",Vietnam,Nguyen The Thao,"6,500,000",270
+SANAA,"1,747,000",Yemen,Abdulrahman al-Akwaa,"2,168,000",172
+BELGRADE,"1,182,000",Yugoslavia,Dragan Dillas,"1,630,000",335
+LUSAKA,"1,110,000",Zambia,Robert Chikwelete,"3,120,000",363
+Kitwe,"548,000",Zambia,n/k,"786,000",589
+HARARE,"1,600,000",Zimbabwe,Muchadeyi Masunda,"2,800,000",194
+Bulawayo,"676,000",Zimbabwe,Thaba Moyo,"676,000",553

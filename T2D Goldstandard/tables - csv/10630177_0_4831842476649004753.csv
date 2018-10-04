@@ -1,0 +1,201 @@
+#,Etagen,Geb?ude,H?he,Jahr,Stadt
+1,163,Burj Khalifa,2.717 ft,2010,Dubai
+2,95,Makkah Clock Royal Tower [Abraj Al Bait],1.972 ft,2012,Mekka
+3,101,Taipei 101,1.671 ft,2004,Taipei
+4,101,Shanghai World Financial Center,1.614 ft,2008,Shanghai
+5,118,International Commerce Centre [Union Square],1.588 ft,2010,Hong Kong
+6,88,Petronas Tower 1 [Petronas Towers],1.483 ft,1998,Kuala Lumpur
+7,88,Petronas Tower 2 [Petronas Towers],1.483 ft,1998,Kuala Lumpur
+8,66,Nanjing Greenland Financial Center,1.476 ft,2010,Nanjing
+9,108,Willis Tower,1.451 ft,1974,Chicago
+10,100,Kingkey Finance Tower,1.449 ft,2011,Shenzhen
+11,103,Guangzhou International Finance Center [Guangzhou Twin Towers],1.435 ft,2010,Guangzhou
+12,88,Jin Mao Tower,1.380 ft,1999,Shanghai
+13,88,Two International Finance Centre [International Finance Centre],1.362 ft,2003,Hong Kong
+14,96,Trump International Hotel & Tower,1.362 ft,2009,Chicago
+15,101,Princess Tower,1.358 ft,2012,Dubai
+16,77,Al Hamra Tower,1.352 ft,2011,Kuweit Stadt
+17,89,23 Marina,1.296 ft,2011,Dubai
+18,80,CITIC Plaza [CITIC Plaza],1.283 ft,1997,Guangzhou
+19,69,Shun Hing Square [Shun Hing Square],1.260 ft,1996,Shenzhen
+20,88,The Domain [Central Market],1.253 ft,2012,Abu Dhabi
+21,102,Empire State Building,1.250 ft,1931,New York City
+22,91,Elite Residence,1.247 ft,2012,Dubai
+23,70,Emirates Park Tower 1 [Emirates Park Towers Hotel & Spa],1.234 ft,2012,Dubai
+24,70,Emirates Park Tower 2 [Emirates Park Towers Hotel & Spa],1.234 ft,2011,Dubai
+25,78,Central Plaza,1.227 ft,1992,Hong Kong
+26,70,Bank of China Tower,1.205 ft,1990,Hong Kong
+27,58,Bank of America Tower,1.200 ft,2009,New York City
+28,68,Almas Tower,1.191 ft,2009,Dubai
+29,60,The Pinnacle,1.181 ft,2012,Guangzhou
+30,54,Emirates Office Tower [Emirates Towers],1.163 ft,2000,Dubai
+31,85,Tuntex Sky Tower,1.140 ft,1997,Kaohsiung
+32,83,Aon Center,1.136 ft,1973,Chicago
+33,73,The Center,1.135 ft,1998,Hong Kong
+34,80,The Torch,1.132 ft,2011,Dubai
+35,100,John Hancock Center,1.128 ft,1969,Chicago
+36,72,Tianjin Global Financial Center,1.105 ft,2011,Tianjin
+37,70,Keangnam Hanoi Landmark Tower,1.102 ft,2012,Hanoi
+38,68,Wenzhou Trade Center,1.094 ft,2010,Wenzhou
+39,72,Rose Tower,1.093 ft,2007,Dubai
+40,60,Shimao International Plaza,1.093 ft,2006,Shanghai
+41,68,Minsheng Bank Building,1.087 ft,2007,Wuhan
+42,105,Ryugyong Hotel,1.083 ft,,Pyongyang
+43,72,Al Yaqoub Tower,1.083 ft,2011,Dubai
+44,74,China World Trade Center Tower III [China World Trade Center],1.083 ft,2009,Peking
+45,80,The Index,1.076 ft,2010,Dubai
+46,72,Longxi International Hotel,1.076 ft,2011,Jiangyin
+47,72,The Landmark,1.063 ft,2011,Abu Dhabi
+48,80,Q1 Tower,1.058 ft,2005,Goldene K�ste
+49,60,Burj Al Arab,1.053 ft,1999,Dubai
+50,77,Chrysler Building,1.046 ft,1930,New York City
+51,80,Nina Tower [Nina Towers],1.046 ft,2007,Hong Kong
+52,52,New York Times Tower,1.046 ft,2007,New York City
+53,72,HHHR Tower,1.040 ft,2010,Dubai
+54,55,Bank of America Plaza,1.023 ft,1992,Atlanta
+55,73,US Bank Tower,1.018 ft,1989,Los Angeles
+56,55,Menara Telekom,1.017 ft,2001,Kuala Lumpur
+57,82,Ocean Heights,1.017 ft,2010,Dubai
+58,74,Sky Tower [The Gate],1.017 ft,2010,Abu Dhabi
+59,95,The Shard [London Bridge Quarter],1.017 ft,2012,London
+60,71,Pearl River Tower,1.016 ft,2012,Guangzhou
+61,56,Jumeirah Emirates Towers Hotel [Emirates Towers],1.014 ft,2000,Dubai
+62,68,Northeast Asia Trade Tower [Songdo New City],1.010 ft,2011,Inch�on
+63,60,AT&T Corporate Center [AT&T - USG Complex],1.007 ft,1989,Chicago
+64,63,The Address Downtown Dubai,1.004 ft,2008,Dubai
+65,75,JPMorgan Chase Tower,1.002 ft,1982,Houston
+66,79,Etihad Tower 2 [Etihad Towers],1.002 ft,2011,Abu Dhabi
+67,85,Baiyoke Tower II [Baiyoke Towers],997 ft,1997,Bangkok
+68,64,Two Prudential Plaza [Prudential Plaza],995 ft,1990,Chicago
+69,65,Leatop Plaza,993 ft,2012,Guangzhou
+70,71,Wells Fargo Plaza,992 ft,1983,Houston
+71,32,Kingdom Centre,992 ft,2002,Riad
+72,76,Capital City Moscow Tower [Capital City],989 ft,2010,Moskau
+73,80,Doosan Haeundae We've the Zenith Tower A,988 ft,2011,Pusan
+74,36,Aspire Tower [Sport City],984 ft,2007,Doha
+75,60,Arraya Center Office Tower [Arraya Centre],984 ft,2009,Kuweit Stadt
+76,69,One Island East Centre [Taikoo Place],979 ft,2008,Hong Kong
+77,72,First Bank Tower [First Canadian Place],978 ft,1976,Toronto
+78,58,Shanghai Wheelock Square,978 ft,2010,Shanghai
+79,91,Eureka Tower,975 ft,2006,Melbourne
+80,57,Comcast Center [Pennsylvania Plaza],974 ft,2008,Philadelphia
+81,73,Yokohama Landmark Tower,972 ft,1993,Yokohama
+82,63,Emirates Crown,971 ft,2008,Dubai
+83,65,Khalid Al Attar Tower 2,965 ft,2010,Dubai
+84,49,Central Park Office Tower [Central Park Towers Plot 08],964 ft,,Dubai
+85,68,Trump Ocean Club International Hotel & Tower,961 ft,2011,Panama City
+86,65,311 South Wacker,961 ft,1990,Chicago
+87,72,Haeundae I'Park Marina Tower 2,958 ft,2011,Pusan
+88,70,SEG Plaza,957 ft,2000,Shenzhen
+89,66,American International Building,952 ft,1932,New York City
+90,68,Global Trade Plaza,948 ft,2011,Dongguan
+91,57,Key Tower [Key Center],947 ft,1991,Cleveland
+92,66,Plaza 66 [Plaza 66 Nanjing Xi Lu],945 ft,2001,Shanghai
+93,61,One Liberty Place [Liberty Place],945 ft,1987,Philadelphia
+94,76,Columbia Center,937 ft,1985,Seattle
+95,60,Millennium Tower,935 ft,2006,Dubai
+96,75,Sulafa Tower,935 ft,2010,Dubai
+97,55,Tomorrow Square,934 ft,2003,Shanghai
+98,60,Chongqing World Trade Center,929 ft,2005,Chongqing
+99,62,Cheung Kong Centre,928 ft,1999,Hong Kong
+100,70,The Trump Building,927 ft,1930,New York City
+101,49,SPG Global Tower A,925 ft,2010,Suzhou
+102,75,Doosan Haeundae We've the Zenith Tower B,924 ft,2011,Pusan
+103,72,Bank of America Plaza [Main Centre],921 ft,1985,Dallas
+104,60,Excellence Century Plaza Tower 1,919 ft,2010,Shenzhen
+105,73,Marina Pinnacle,919 ft,2011,Dubai
+106,66,Republic Plaza [Republic Plaza],919 ft,1996,Singapur
+107,63,OUB Centre [One Raffles Place],919 ft,1988,Singapur
+108,66,UOB Plaza One [UOB Plaza],919 ft,1992,Singapur
+109,55,Three IFC Office Tower [Seoul International Finance Center],915 ft,2012,Seoul
+110,59,Citigroup Center,915 ft,1977,New York City
+111,61,Hong Kong New World Tower,913 ft,2002,Shanghai
+112,58,Trust Tower [Central Market],912 ft,2012,Abu Dhabi
+113,70,Etihad Tower 1 [Etihad Towers],911 ft,2011,Abu Dhabi
+114,54,Diwang International Commerce Center,906 ft,2006,Nanning
+115,68,Scotia Plaza [Scotiabank Buildings],902 ft,1988,Toronto
+116,64,Williams Tower,901 ft,1983,Houston
+117,56,Lvjing Tower,896 ft,2011,Shenzhen
+118,58,Wuhan World Trade Tower,896 ft,1998,Wuhan
+119,66,Haeundae I'Park Marina Tower 1,895 ft,2011,Pusan
+120,64,International Mansion,889 ft,2012,Chongqing
+121,56,Renaissance Tower,886 ft,1974,Dallas
+122,60,JAL Hotel [JAL Towers],886 ft,2010,Dubai
+123,68,The Cullinan I [Union Square],886 ft,2008,Hong Kong
+124,68,The Cullinan II [Union Square],886 ft,2008,Hong Kong
+125,62,China International Center Tower B [China Plaza],884 ft,2007,Guangzhou
+126,47,One Lujiazui,883 ft,2008,Shanghai
+127,68,Bitexco Financial Tower,883 ft,2010,Ho Chi Minh City
+128,55,21st Century Tower,883 ft,2003,Dubai
+129,61,Naberezhnaya Tower C [Naberezhnaya Tower],881 ft,2007,Moskau
+130,65,Nation Towers Residential [Nation Towers],879 ft,2011,Abu Dhabi
+131,57,Bank of Guangzhou Tower,879 ft,2012,Guangzhou
+132,76,The Beekman,876 ft,2011,New York City
+133,60,KLCC Lot C,876 ft,2012,Kuala Lumpur
+134,30,Al Faisaliyah Center,876 ft,2000,Riad
+135,73,The River South Tower [The River],872 ft,2012,Bangkok
+136,66,900 North Michigan,871 ft,1989,Chicago
+137,60,Bank of America Corporate Center [Bank of America Plaza],871 ft,1992,Charlotte
+138,60,SunTrust Plaza [SunTrust Plaza],871 ft,1992,Atlanta
+139,53,Al Kazim Tower 1 [Al Kazim Towers],869 ft,2008,Dubai
+140,53,Al Kazim Tower 2 [Al Kazim Towers],869 ft,2008,Dubai
+141,52,Bocom Financial Towers,869 ft,2002,Shanghai
+142,70,Doosan Haeundae We've the Zenith Tower C,869 ft,2011,Pusan
+143,51,WBC The Palace 1,869 ft,2011,Pusan
+144,51,WBC The Palace 2,869 ft,2011,Pusan
+145,52,120 Collins Street,869 ft,1991,Melbourne
+146,57,Triumph-Palace,866 ft,2005,Moskau
+147,73,"Tower Palace Three, Tower G [Samsung Tower Palace]",865 ft,2004,Seoul
+148,57,Ubora Tower 1 [Ubora Towers],862 ft,2011,Dubai
+149,72,Trump World Tower,861 ft,2001,New York City
+150,48,Shenzhen Special Zone Press Tower,860 ft,1998,Shenzhen
+151,74,Water Tower Place,859 ft,1976,Chicago
+152,52,Grand Gateway Shanghai I [Grand Gateway],859 ft,2005,Shanghai
+153,52,Grand Gateway Shanghai II [Grand Gateway],859 ft,2005,Shanghai
+154,62,Aon Center,858 ft,1973,Los Angeles
+155,51,Central Park Residential Tower [Central Park Towers Plot 08],857 ft,,Dubai
+156,47,Grand Lisboa [Lisboa Casino & Hotel],856 ft,2008,Macau
+157,54,Sapphire Tower,856 ft,2010,Istanbul
+158,64,The Masterpiece,856 ft,2007,Hong Kong
+159,53,Canada Trust Tower [BCE Place],856 ft,1990,Toronto
+160,62,Etihad Tower 3 [Etihad Towers],854 ft,2011,Abu Dhabi
+161,50,101 Collins Street,853 ft,1991,Melbourne
+162,63,Fortune Plaza Office Building 1 [Fortune Plaza],853 ft,2008,Peking
+163,55,Huangcheng International Square,853 ft,2007,Chengdu
+164,58,Jing An Kerry Centre Tower 2,853 ft,2012,Shanghai
+165,63,Shanghai IFC North Tower [Shanghai International Finance Center],853 ft,2011,Shanghai
+166,60,The Vision Tower,853 ft,2011,Dubai
+167,53,Dual Tower 1 [Dual Towers],853 ft,2007,Manama
+168,53,Dual Tower 2 [Dual Towers],853 ft,2007,Manama
+169,66,Post & Telecommunication Hub,853 ft,2003,Guangzhou
+170,48,Transamerica Pyramid [Transamerica Center],853 ft,1972,San Francisco
+171,60,Chase Tower,850 ft,1969,Chicago
+172,69,GE Building [Rockefeller Center],850 ft,1933,New York City
+173,58,Commerzbank Tower [Geb�udekomplex Commerzbank AG],850 ft,1997,Frankfurt am Main
+174,55,PBCOM Tower,848 ft,2000,Makati
+175,58,Two Liberty Place [Liberty Place],848 ft,1990,Philadelphia
+176,63,Huamin Imperial Tower,846 ft,2011,Shanghai
+177,53,Hutchison Whampoa Metro Plaza Main Tower,846 ft,2012,Tianjin
+178,60,Lanko�Grand Hyatt Hotel [Lanko-Hyatt],846 ft,2004,Chongqing
+179,64,Lanko International Conference & Exhibition Tower [Lanko International Conference Center],846 ft,2010,Chongqing
+180,52,Zhe Jiang Fortune Finance Center West Tower [Zhe Jiang Fortune Finance Center],846 ft,2011,Hangzhou
+181,67,Park Tower,844 ft,2000,Chicago
+182,52,Devon Energy Tower,844 ft,2012,Oklahoma City
+183,65,Capital City St. Petersburg Tower [Capital City],843 ft,2010,Moskau
+184,59,Trump International Hotel & Tower Toronto,842 ft,2012,Toronto
+185,55,MesseTurm,842 ft,1990,Frankfurt am Main
+186,64,U.S. Steel Tower,841 ft,1970,Pittsburgh
+187,75,Sorrento 1 [Union Square],841 ft,2003,Hong Kong
+188,59,Dubai Marriott Harbour Hotel and Suites,840 ft,2007,Dubai
+189,69,"Mok-dong Hyperion I, Tower A [Mok-dong Hyperion I]",840 ft,2003,Seoul
+190,56,Rinku Gate Tower Building,840 ft,1996,Izumisano
+191,52,New Century Plaza Tower A [New Century Plaza],837 ft,2006,Nanjing
+192,59,Langham Place Office Tower [Langham Place],837 ft,2004,Hong Kong
+193,51,Conrad Hotel,837 ft,2011,Dubai
+194,65,The Point,837 ft,2011,Panama City
+195,60,Xinjiekou Department Store Tower,837 ft,,Nanjing
+196,64,Al Fardan Residences,831 ft,2009,Doha
+197,52,Capital Tower,830 ft,2000,Singapur
+198,72,Highcliff,828 ft,2003,Hong Kong
+199,46,Bank of Shanghai Headquarters,827 ft,2005,Shanghai
+200,55,Osaka World Trade Center,827 ft,1995,Osaka

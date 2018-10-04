@@ -1,0 +1,378 @@
+Country,Museum,Nr.,Score *
+USA,Museum of Modern Art (MoMA),1,11
+USA,Metropolitan Museum of Art,2,14
+France,Mus?e du Louvre,3,34
+USA,National Gallery of Art,4,35
+United Kingdom,Victoria and Albert Museum,5,37
+USA,J. Paul Getty Museum,6,40
+Germany,Deutsches Historisches Museum,7,50
+USA,Los Angeles County Museum of Art (LACMA),8,51
+Russia,State Hermitage Museum,9,53
+USA,Brooklyn Museum of Art,10,58
+United Kingdom,National Maritime Museum,11,59
+USA,Museum of Fine Arts (MFA),12,61
+United Kingdom,National Gallery,13,67
+Netherlands,Rijksmuseum,14,69
+Spain,Museo Nacional del Prado,15,72
+United Kingdom,Royal Academy of Arts,16,74
+United Kingdom,Tate Britain,17,76
+New Zealand,Museum of New Zealand Te Papa Tongarewa,18,83
+USA,Philadelphia Museum of Art,19,87
+USA,Minneapolis Institute of Arts,20,88
+USA,Indianapolis Museum of Art,21,89
+United Kingdom,Ashmolean Museum,22,94
+USA,Detroit Institute of Arts (DIA),23,108
+Spain,Museo Thyssen-Bornemisza,24,111
+USA,Seattle Art Museum,25,114
+USA,Saint Louis Art Museum (SLAM),26,123
+Canada,Art Gallery of Ontario (AGO),27,133
+United Kingdom,Manchester Art Gallery,28,141
+USA,Corcoran Gallery of Art,29,141
+United Kingdom,National Gallery of Scotland /National Portrait Gallery,30,145
+United Kingdom,Royal Collection,31,149
+Japan,National Museum of Western Art,32,150
+USA,High Museum of Art,33,156
+USA,Jewish Museum,34,161
+USA,Norton Simon Museum,35,165
+Austria,Kunsthistorisches Museum (KHM),36,168
+USA,Frick Collection,37,168
+USA,Isabella Stewart Gardner Museum,38,175
+USA,"Museum of Fine Arts, Houston",39,178
+USA,Denver Art Museum,40,183
+United Kingdom,National Museum of Wales,41,184
+Spain,Palacio Real,42,186
+Finland,Sinebrychoffin Taidemuseo,43,187
+Spain,Patrimonio Nacional,44,189
+United Kingdom,Wallace Collection,45,190
+Denmark,Statens Museum for Kunst,46,194
+Poland,Muzeum Ksiazat Lubomirskich,47,197
+USA,Milwaukee Art Museum,48,203
+USA,Walters Art Museum,49,209
+USA,Carnegie Museum of Art,50,218
+USA,Worcester Art Museum,51,225
+Germany,St?del Museum,52,227
+USA,Cleveland Museum of Art,53,234
+Germany,Hamburger Kunsthalle,54,237
+Germany,Klassik Stiftung Weimar,55,244
+USA,Portland Art Museum,56,249
+USA,Nelson-Atkins Museum of Art,57,253
+USA,Albright-Knox Art Gallery,58,254
+Germany,Landesmuseum f?r Kunst und Kulturgeschichte,59,255
+Netherlands,Museum Boijmans Van Beuningen,60,255
+USA,Phoenix Art Museum,61,256
+Germany,Schloss Sanssouci,62,257
+Canada,National Gallery of Canada,63,261
+Germany,"Gem?ldegalerie, Staatliche Museen zu Berlin",64,265
+USA,North Carolina Museum of Art,65,265
+USA,John and Mable Ringling Museum of Art,66,270
+Germany,Kunst- und Ausstellungshalle der Bundesrepublik Deutschland,67,270
+USA,Dallas Museum of Art,68,272
+Germany,Germanisches Nationalmuseum,69,274
+Hungary,Sz?pm?v?szeti M?zeum,70,277
+Austria,Landesmuseum Joanneum - Alte Galerie,71,286
+France,Mus?e Jacquemart-Andr?,72,289
+Belgium,Koninklijke Musea voor Schone Kunsten van Belgi?,73,290
+United Kingdom,British Museum,74,292
+Luxembourg,Mus?e National d'Histoire et d'Art,75,292
+Netherlands,Van Gogh Museum,76,293
+United Kingdom,City Museums and Art Gallery,77,293
+Sweden,G?teborgs Konstmuseum,78,293
+United Kingdom,Chatsworth House,79,294
+Russia,Peter the Great Museum of Anthropology and Ethnography,80,295
+USA,Sterling and Francine Clark Art Institute,81,309
+Germany,Kunstareal Munchen,82,316
+Netherlands,Kr?ller-M?ller Museum,83,316
+Slovak Republic,Slovensk? N?rodn? Gal?ria,84,316
+Sweden,Museum Gustavianum Uppsala,85,317
+USA,Toledo Museum of Art,86,319
+USA,San Diego Museum of Art,87,319
+Netherlands,Mauritshuis,88,320
+Germany,Museum der bildenden K?nste Leipzig,89,325
+Switzerland,Kunsthaus Z?rich,90,329
+Russia,Pushkin State Museum of Fine Arts,91,330
+Argentina,Museo Nacional de Bellas Artes,92,330
+Netherlands,Joods Historisch Museum,93,333
+Netherlands,Van Abbemuseum,94,336
+Netherlands,Erfgoedcentrum DiEP,95,339
+Czech Republic,N?rodn? galerie v Praze,96,340
+Netherlands,Amsterdams Historisch Museum (AHM),97,344
+USA,New Orleans Museum of Art (NOMA),98,347
+Germany,Staatsgalerie Stuttgart,99,347
+USA,Ackland Art Museum,100,352
+USA,Chrysler Museum of Art,101,354
+USA,Blanton Museum of Art,102,356
+Cuba,Museo Nacional de Bellas Artes de Cuba,103,357
+France,Mus?e des Beaux-Arts de Lyon,104,358
+New Zealand,Auckland Art Gallery Toi o T??maki,105,359
+Poland,Muzeum Narodowe w Warszawie,106,359
+Italy,Galleria Borghese,107,366
+Liechtenstein,Kunstmuseum Liechtenstein,108,368
+Switzerland,Kunstmuseum Basel,109,378
+Germany,Staatliche Kunstsammlungen Dresden,110,385
+Netherlands,Centraal Museum,111,386
+Canada,Mus?e des Beaux-Arts de Montr?al,112,392
+Italy,Firenze Musei,113,398
+Switzerland,Mus?e d'Art et d'Histoire,114,402
+Israel,Israel Museum,115,403
+Germany,Von der Heydt-Museum,116,404
+Austria,Ober?sterreichisches Landesmuseum,117,407
+Austria,Liechtenstein Museum,118,407
+USA,Williams College Museum of Art,119,407
+USA,Baltimore Museum of Art,120,408
+Malta,National Museum of Fine Arts,121,411
+USA,Dayton Art Institute,122,412
+Brazil,Museu de Arte,123,412
+USA,Crocker Art Museum,124,414
+Ireland,National Gallery of Ireland,125,417
+USA,Wadsworth Atheneum Museum of Art,126,418
+Spain,Museo Nacional de Escultura,127,419
+Spain,Bilboko Arte Eder Museoa,128,420
+Netherlands,Stedelijk Museum,129,432
+Italy,Palazzo Strozzi,130,433
+Germany,Kulturgeschichtliches Museum,131,440
+Germany,Sprengel Museum,132,441
+Netherlands,Groninger Museum,133,443
+Netherlands,Museum Het Valkhof,134,450
+USA,Barnes Foundation,135,451
+United Kingdom,Dulwich Picture Gallery,136,451
+Belgium,Koninklijk Instituut voor het Kunstpatrimonium (KIK),137,454
+Germany,Staatliches Museum Schwerin,138,455
+USA,Speed Art Museum,139,457
+Sweden,Nationalmuseum,140,459
+Czech Republic,Moravsk? Galerie,141,460
+Netherlands,Noordbrabants Museum,142,462
+Germany,Kunsthalle Bremen,143,463
+Netherlands,Maritiem Museum Rotterdam,144,465
+Netherlands,Stedelijk Museum De Lakenhal,145,469
+Netherlands,Museum Boerhaave,146,472
+USA,Currier Museum of Art,147,474
+Germany,Historisches Museum Frankfurt am Main,148,477
+USA,Birmingham Museum of Art,149,478
+Romania,Muzeul Na??ional de Arta al Rom?niei,150,478
+Poland,Zamek Kr?lewski na Wawelu,151,479
+Netherlands,Museum Meermanno,152,480
+Netherlands,Zuiderzeemuseum,153,485
+Netherlands,Nederlands Scheepvaartmuseum Amsterdam,154,489
+Netherlands,Bonnefantenmuseum,155,489
+USA,Cincinnati Art Museum,156,489
+Netherlands,Fries Museum,157,490
+Israel,Tel Aviv Museum of Art,158,494
+Germany,Museum Kunst Palast,159,500
+Germany,Staatliche Kunsthalle,160,502
+Austria,Albertina,161,503
+Poland,Muzeum-Pa??ac w Wilan?wie,162,503
+USA,Norton Museum of Art,163,505
+Spain,Fundaci?n Carlos de Amberes,164,506
+Spain,Museo L?zaro Galdiano,165,508
+Germany,Kunsthalle der Hypo-Kulturstiftung,166,511
+USA,"Museum of Art, Rhode Island School of Design",167,516
+Netherlands,Museum Catharijneconvent,168,528
+United Kingdom,Courtauld Institute of Art Gallery,169,529
+Netherlands,Galerij Prins Willem V,170,531
+Netherlands,Geldmuseum Utrecht,171,532
+Germany,Schleswig-Holsteinisches Landesmuseum Schloss Gottorf,172,532
+Belgium,Koninklijke Musea voor Kunst en Geschiedenis,173,534
+Belgium,Vlaamse Kunstcollectie,174,535
+Netherlands,Historisch Museum Deventer,175,541
+Russia,Peterhof Palace National Museum,176,553
+United Kingdom,Bowes Museum,177,556
+Netherlands,Dordrechts Museum,178,557
+Germany,Martin-von-Wagner-Museum,179,557
+United Kingdom,Barber Institute of Fine Arts,180,558
+Netherlands,Teylers Museum,181,562
+France,Mus?e des Augustins,182,565
+Belgium,Koninklijk Museum voor Schone Kunsten (KMSKA),183,568
+France,Mus?e Cond?,184,569
+Romania,Muzeul Na??ional Brukenthal,185,575
+Mexico,Museo Franz Mayer,186,577
+USA,Bass Museum of Art,187,580
+Italy,Museo Poldi Pezzoli,188,583
+Poland,Muzeum Narodowe w Krakowie,189,585
+Netherlands,Cobra Museum voor Moderne Kunst,190,586
+Norway,"Nasjonalmuseet for Kunst, Arkitektur og Design",191,586
+United Kingdom,National Portrait Gallery,192,587
+Belgium,Koninklijk Museum van het Leger en de Krijgsgeschiedenis,193,588
+Germany,Aachener Dom,194,592
+Argentina,Museo Nacional de Arte Decorativo,195,593
+Netherlands,Escher in het Paleis,196,595
+United Kingdom,"Kenwood, The Iveagh Bequest",197,598
+USA,Holland Museum,198,607
+Poland,Muzeum Narodowe w Poznaniu,199,608
+Norway,Bergen Kunstmuseum,200,612
+Italy,Castello del Buonconsiglio,201,613
+Russia,Pavlovsk Palace,202,614
+Denmark,Rosenborg Slot,203,618
+USA,"Museum of Fine Arts, St. Petersburg",204,623
+Netherlands,Museum voor Moderne Kunst Arnhem (MMKA),205,623
+Poland,Zamek Kr?lewski w Warszawie,206,623
+Netherlands,Drents Museum,207,629
+France,Palais des Beaux-Arts,208,636
+Poland,Muzeum Narodowe we Wroc??awiu,209,638
+France,Mus?e de Grenoble,210,640
+USA,Philbrook Museum of Art,211,642
+Netherlands,Gemeentemuseum Den Haag,212,644
+Poland,Muzeum Historyczne Miasta Gda??ska,213,644
+France,Mus?e des Beaux-Arts de Rennes,214,647
+USA,Museum & Gallery at Bob Jones University,215,648
+Netherlands,Frans Hals Museum,216,653
+USA,Cummer Museum of Art and Gardens,217,654
+Belgium,Museum voor Schone Kunsten,218,660
+Czech Republic,Muzeum um??n?,219,662
+Netherlands,Singer Museum,220,663
+Netherlands,Museum het Rembrandthuis,221,666
+USA,Timken Museum of Art,222,666
+Germany,Kunsthalle T?bingen,223,672
+USA,Taft Museum of Art,224,672
+Denmark,Det Nationalhistoriske Museum p? Frederiksborg Slot,225,679
+Belgium,Cabinet des Estampes et des Dessins de la Ville de Li?ge,226,680
+Canada,Mus?e National des Beaux-Arts du Qu?bec,227,684
+Croatia,Muzej za umjetnost i obrt,228,685
+United Kingdom,"Tatton Park, National Trust",229,685
+Austria,Residenzgalerie,230,689
+Netherlands,Allard Pierson Museum,231,690
+Germany,Herzog Anton Ulrich-Museum,232,695
+Latvia,Latvian Academy of Arts,233,700
+USA,Allentown Art Museum,234,708
+Netherlands,Stedelijk Museum Schiedam,235,711
+Netherlands,Zeeuws Museum,236,716
+Canada,Winnipeg Art Gallery,237,727
+Germany,Museum Schloss Wilhelmsh?he,238,729
+Austria,Tiroler Landesmuseum Ferdinandeum,239,729
+Netherlands,Museum Bredius,240,731
+Germany,Ostfriesisches Landesmuseum Emden,241,735
+Slovak Republic,Gal?ria Mesta Bratislavy,242,736
+Netherlands,Zeeuws Maritiem MuZEEum,243,740
+Czech Republic,Slezsk? zemsk? muzeum,244,745
+Croatia,Muzej Mimara,245,746
+Netherlands,Keramiekmuseum Princessehof,246,749
+Netherlands,museumgoudA / Het Catharina Gasthuis,247,749
+France,Institut National du Patrimoine,248,750
+Croatia,Hrvatska Akademija Znanostii Umjetnosti: Kabinet Grafike,249,750
+India,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,250,754
+Italy,Galleria Doria Pamphilj,251,759
+Netherlands,Stedelijk Museum Roermond,252,759
+Poland,Muzeum Sztuki w ??odzi,253,760
+France,Mus?e des Beaux-Arts de Strasbourg,254,760
+Austria,Nordico - Museum der Stadt Linz,255,761
+Belgium,Museum Leuven,256,762
+Poland,Muzeum Zamek w ??a??cucie,257,763
+Germany,Bayerisches Nationalmuseum,258,764
+Netherlands,Historisch Museum Rotterdam,259,765
+Poland,Muzeum w Nieborowie i Arkadii,260,767
+Germany,Couven-Museum,261,768
+Belarus,National Art Museum of the Republic of Belarus,262,774
+Germany,Haus der Niederlande,263,775
+Netherlands,Museum de Fundatie,264,778
+Netherlands,Westfries Museum,265,779
+Brazil,Instituto Ricardo Brennand,266,780
+France,Mus?e Granet d'Aix-en-Provence,267,781
+Netherlands,Museum Kranenburgh,268,782
+Brazil,Museu Nacional de Belas Artes,269,784
+United Kingdom,York Art Gallery,270,787
+Germany,Museum Schloss B?ckeburg,271,789
+Poland,Muzeum Narodowe w Szczecinie,272,791
+USA,New-York Historical Society,273,794
+Netherlands,Bijbels Museum,274,797
+Netherlands,Museum Jan Cunen,275,798
+Belgium,Mus?e de l'Art Wallon,276,807
+USA,Hyde Collection,277,808
+Austria,Gem?ldegalerie der Akademie der bildenden K?nste,278,813
+South Africa,Pretoria Art Museum,279,814
+United Kingdom,Cheltenham Art Gallery and Museum,280,815
+Netherlands,Panorama Mesdag,281,821
+Poland,Muzeum Czartoryskich,282,825
+Czech Republic,Oblastni Galerie,283,830
+Germany,Kunstverein Braunschweig,284,833
+Germany,Landesmuseum Mainz,285,834
+Belgium,"Rubenshuis, Musea Antwerpen",286,835
+Greece,National Gallery and Alexandros Soutzos Museum,287,836
+Germany,Hessisches Landesmuseum,288,837
+Belgium,Onze-Lieve-Vrouwekathedraal Antwerpen,289,837
+France,Mus?e Fesch,290,839
+Ukraine,Lviv Art Gallery,291,840
+Netherlands,Historisch Museum De Bevelanden,292,844
+Switzerland,Mus?e Jenisch,293,848
+Croatia,Strossmayerova galerija starih majstora,294,848
+Netherlands,Stedelijk Museum Het Prinsenhof,295,850
+Netherlands,Museum Willet-Holthuysen,296,850
+Netherlands,Haags Historisch Museum,297,854
+Canada,Agnes Etherington Art Centre,298,855
+USA,Kimbell Art Museum,299,856
+Germany,Museum Kurhaus Kleve,300,860
+France,La Cour d'Or-Mus?e de Metz,301,860
+France,"Collection Frits Lugt, Fondation Custodia",302,865
+Netherlands,Stedelijk Museum Alkmaar,303,866
+Germany,Schloss Friedenstein,304,866
+Switzerland,Sammlung Oskar Reinhart ?Am R?merholz?,305,869
+France,Mus?e des Beaux-Arts de Dijon,306,870
+Germany,Karl Ernst Osthaus-Museum,307,871
+Germany,Mittelrhein-Museum,308,877
+Switzerland,Sammlung E.G. B?hrle,309,879
+Austria,Schloss Rohrau - Graf Harrach'sche Familiensammlung,310,881
+Belgium,Mus?e du Ch?teau des Comtes de Marchin,311,882
+France,Mus?e National Magnin de Dijon,312,883
+Czech Republic,Al??ova jiho??esk? galerie,313,884
+Belgium,Mus?e des Beaux-Arts de Charleroi,314,885
+Germany,Bonner Kunstverein,315,891
+Poland,Muzeum Warmii i Mazur,316,898
+Netherlands,Stedelijk Museum Zwolle,317,899
+Switzerland,Kunstmuseum Winterthur,318,901
+Germany,Meininger Museen,319,903
+Germany,Schloss Weissenstein,320,903
+Spain,Museo Municipal Qui?ones de Le?n,321,911
+Latvia,National History Museum of Latvia,322,912
+Puerto Rico,Museo de Arte de Ponce,323,913
+Netherlands,Nationaal Glasmuseum Leerdam,324,913
+Netherlands,Kasteel Huis Bergh,325,919
+Poland,Muzeum Lubelskie,326,928
+Poland,Muzeum ??azienki Kr?lewskie,327,930
+Netherlands,Historisch Museum Arnhem,328,932
+Netherlands,Breda's Museum,329,932
+Bulgaria,Sofia Art Gallery,330,942
+Switzerland,Museum Oskar Reinhardt am Stadtgarten,331,946
+France,Mus?e des Beaux-Arts et d'Arch?ologie,332,946
+USA,Springfield Museum of Art,333,948
+Germany,B.C. Koekkoek-Haus,334,953
+Netherlands,Museum Ons' Lieve Heer op Solder,335,955
+Switzerland,Kunstmuseum St. Gallen,336,958
+France,Mus?e Rupert de Chi?vres,337,959
+Spain,Capilla Real de Granada,338,960
+Netherlands,Rijksmuseum Twenthe,339,963
+Latvia,??rzemju m??kslas muzejs,340,970
+Germany,Kunstsammlungen der Veste Coburg,341,980
+Italy,Museo Borgogna,342,980
+Italy,Galleria Giorgio Franchetti alla Ca' d'Oro,343,985
+United Kingdom,Cobbe Collection,344,985
+Germany,St?dtisches Museum Schloss Rheydt,345,987
+Netherlands,Museum Mesdag,346,991
+Netherlands,Simon van Gijn - museum aan huis,347,992
+France,Mus?e Calvet,348,993
+USA,Figge Art Museum,349,1004
+Belgium,Rubenianum,350,1004
+Hungary,Kereszt?ny M?zeum,351,1006
+Netherlands,Marie Tak van Poortvliet Museum,352,1012
+Finland,G?sta Serlachius Museum of Fine Arts,353,1015
+Belgium,Rockoxhuis,354,1022
+Czech Republic,"Obraz?rna Prazsk?ho hradu, Prazsk?? hrad",355,1022
+Netherlands,Museum aan het Vrijthof,356,1023
+South Africa,William Humphreys Art Gallery,357,1025
+Romania,Muzeul de Art?? Timi??oara,358,1025
+Switzerland,Museum Briner und Kern,359,1029
+Bulgaria,National Gallery for Foreign Art,360,1033
+Netherlands,Stedelijk Museum Zutphen,361,1035
+Belgium,Zilvermuseum Sterckshof Provincie Antwerpen,362,1050
+Germany,Kunsthaus Heylshof,363,1051
+Italy,Galleria Nazionale di Palazzo Spinola,364,1053
+Germany,Museum Schloss Ehrenburg,365,1063
+Germany,Staatliche Graphische Sammlung M?nchen,366,1064
+Netherlands,Nederlands Tegelmuseum,367,1066
+Italy,Museo di Palazzo Ducale,368,1067
+Denmark,Nivaagaards Malerisamling,369,1069
+Luxembourg,Villa Vauban - Mus?e d'Art de la Ville de Luxembourg,370,1073
+Belgium,Kasteel van Loppem,371,1076
+Germany,Anhaltische Gem?ldegalerie,372,1077
+Belgium,Broelmuseum,373,1095
+Netherlands,Atlas van Stolk,374,1105
+Netherlands,Ottema-Kingma Stichting,375,1111
+Argentina,Museo Nacional de Bellas Artes de Neuqu?n (MNBA Neuqu?n),376,1130
+Belgium,Keizerskapel,377,1144

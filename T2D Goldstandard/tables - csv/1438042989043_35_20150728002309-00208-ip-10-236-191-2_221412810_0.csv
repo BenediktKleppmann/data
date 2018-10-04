@@ -1,0 +1,9 @@
+Author,Commit,Date,File
+Richard Purdie,[9b05c6] sstate: Fix the relative symlink replacement code,2013-08-23,meta
+Paul Eggleton,[c71fa8] meta-*/conf/layer.conf: tweak BBFILES comment,2013-04-09,meta-hob
+Yang Shi,[6640f3] hello-mod: Add comment for kernel module packag...,2013-08-16,meta-skeleton
+Paul Eggleton,[64aa7d] buildhistory-collect-srcrevs: match new buildhi...,2013-08-15,scripts
+Eric Bénard,[d15d42] gitignore: only ignore meta- directories,2013-01-11,.gitignore
+Richard Purdie,[80878d] LICENSE: Clarify the license recipe source code...,2010-06-10,LICENSE
+Robert P. J. Day,[95d631] README: Update link to current Yocto documentat...,2012-11-24,README
+Peter Kjellerstedt,[f0aa69] oe-init-build-env: Make it use the correct $OER...,2013-04-05,oe-init-build-env

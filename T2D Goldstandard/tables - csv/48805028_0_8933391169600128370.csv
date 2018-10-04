@@ -1,0 +1,223 @@
+1999,2000,2001,Code,Species
+X,X,,HOGR,Horned Grebe
+X,X,X,PBGR,Pied-billed Grebe *
+X,X,X,COLO,Common Loon
+X,X,X,HERG,Herring Gull *
+X,X,X,RBGU,Ring-billed Gull *
+,,,FRGU,Franklin's Gull
+,,X,GBBG,Greater Black-Backed Gull
+X,X,X,BOGU,Bonaparte's Gull
+X,X,X,CATE,Caspian Tern *
+X,X,X,FOTE,Forster's Tern *
+X,X,,COTE,Common Tern *
+X,X,,BLTE,Black Tern *
+X,X,X,DCCO,Double-crested Cormorant *
+X,X,X,AWPE,American White Pelican *
+X,X,X,COME,Common Merganser *
+X,X,X,RBME,Red-breasted Merganser
+X,X,X,HOME,Hooded Merganser *
+X,X,X,MALL,Mallard *
+X,X,X,ABDU,American Black Duck *
+X,X,X,GADW,Gadwall *
+X,X,X,AMWI,American Wigeon *
+,X,,EUWI,Eurasion Wigeon
+X,X,X,AGWT,Green-winged Teal *
+X,X,X,BWTE,Blue-winged Teal *
+X,X,X,NSHO,Northern Shoveler *
+X,X,X,NOPI,Northern Pintail *
+X,X,X,WODU,Wood Duck *
+X,X,X,REDH,Redhead *
+X,X,X,CANV,Canvasback *
+X,X,X,GRSC,Greater Scaup
+X,X,X,LESC,Lesser Scaup *
+X,X,X,RNDU,Ring-Necked Duck
+X,X,X,COGO,Common Goldeneye
+X,X,X,BUFF,Bufflehead
+X,,,OLDS,Oldsquaw
+,X,,HARD,Harlequin Duck
+X,X,,BLSC,Black Scoter
+X,,,WWSC,White-winged scoter
+X,X,X,RUDU,Ruddy Duck *
+X,,,LSGO,"Snow Goose (Lesser, White Phase"
+X,,,BLGO,"Snow Goose (Lesser, Blue Phase"
+X,X,X,CAGO,Canada Goose *
+X,X,X,WHSW,Tundra Swan
+X,X,,AMBI,American Bittern *
+,X,,LEBI,Least Bittern *
+X,X,X,GBHE,Great Blue Heron *
+X,X,X,GREG,Great Egret *
+,X,,SNEG,Snowy Egret *
+X,X,X,GRHE,Green Heron *
+X,X,,BCNH,Black-crowned Night-Heron *
+X,X,X,SACR,Sandhill Crane *
+X,,,VIRA,Virginia Rail *
+X,X,X,SORA,Sora *
+X,,,COMO,Common Moorhen *
+X,X,X,AMCO,American Coot *
+,X,,WIPH,Wilson's Phalarope
+,,,RNPH,Red-necked Phalarope
+X,X,X,AMWO,American Woodcock *
+X,X,X,COSN,Common Snipe *
+,,X,SBDO,Short-billed Dowitcher
+,,,LBDO,Long-billed Dowitcher
+X,,,REKN,Red Knot
+X,X,X,PESA,Pectoral Sandpiper
+,,,WRSA,White-rumped Sandpiper
+X,X,X,BASA,Baird's Sandpiper
+X,X,X,LESA,Least Sandpiper
+X,X,X,DUNL,Dunlin
+X,X,X,SESA,Semipalmated Sandpiper
+X,X,,SAND,Sanderling
+X,,,MAGO,Marbled Godwit
+,,,HUGO,Hudsonian Godwit
+X,X,X,GRYE,Greater Yellowlegs
+X,X,X,LEYE,Lesser Yellowlegs
+X,X,X,SOSA,Solitary Sandpiper
+X,,,WILL,Willet
+X,X,X,SPSA,Spotted Sandpiper *
+X,X,X,BBPL,Black-bellied Plover
+X,,,AMGP,American Golden Plover
+X,X,X,KILL,Killdeer *
+X,X,X,SEPL,Semipalmated Plover
+X,X,X,RUTU,Ruddy Turnstone
+,X,,RUGR,Ruffed Grouse *
+X,,,RPHE,Ring-necked Pheasant *
+,X,X,WITU,Wild Turkey *
+X,X,,RODO,Rock Dove *
+X,X,X,MODO,Mourning Dove *
+X,X,X,TUVU,Turkey Vulture
+,X,X,NOHA,Northern Harrier *
+X,X,X,SSHA,Sharp-shinned Hawk
+X,X,X,COHA,Cooper's Hawk *
+,,X,NOGO,Northern Goshawk
+X,X,X,RTHA,Red-tailed Hawk *
+X,,,BWHA,Broad-winged Hawk
+X,X,,RLHA,Rough-legged Hawk
+X,X,X,BAEA,Bald Eagle *
+X,,X,PEFA,Peregrine Falcon *
+X,X,X,MERL,Merlin
+,,,AMKE,American Kestrel *
+X,,X,OSPR,Osprey
+,,,EASO,Eastern Screech Owl *
+X,X,X,GHOW,Great Horned Owl *
+,,,YBCU,Yellow-Billed Cuckoo *
+X,,X,BBCU,Black-Billed Cuckoo *
+X,X,X,BEKI,Belted Kingfisher *
+X,X,X,HAWO,Hairy Woodpecker *
+X,X,X,DOWO,Downy Woodpecker *
+X,X,X,YBSA,Yellow-Bellied Sapsucker *
+X,X,X,RHWO,Red-headed Woodpecker *
+X,X,X,RBWO,Red-bellied Woodpecker *
+X,X,X,YSFL,Northern Flicker (Yellow-shafted) *
+X,,,WPWI,Whip-poor-will *
+X,X,,CONI,Common Nighthawk *
+X,X,X,CHSW,Chimney Swift *
+X,X,,RTHU,Ruby-throated Hummingbird *
+X,X,X,EAKI,Eastern Kingbird *
+X,X,X,GCFL,Great Crested Flycatcher *
+X,X,X,EAPH,Eastern Phoebe *
+X,,,OSFL,Olive-Sided Flycatcher
+X,X,X,EAWP,Eastern Wood-Pewee *
+X,X,,YBFL,Yellow-bellied Flycatcher
+X,X,,WIFL,Willow Flycatcher *
+X,X,,ALFL,Alder Flycatcher *
+X,X,X,LEFL,Least Flycatcher *
+X,X,X,BLJA,Blue Jay *
+,,,BBMA,Black-Billed Magpie
+X,X,X,AMCR,American Crow *
+X,X,X,EUST,European Starling *
+,X,,BOBO,Bobolink *
+X,X,X,BHCO,Brown-headed Cowbird *
+X,,,YHBL,Yellow-headed Blackbird *
+X,X,X,RWBL,Red-winged Blackbird *
+X,,,EAME,Eastern Meadowlark *
+X,,X,OROR,Orchard Oriole *
+X,X,X,BAOR,Baltimore Oriole *
+X,X,X,RUBL,Rusty Blackbird
+,,X,BRBL,Brewer's Blackbird*
+X,X,X,COGR,Common Grackle *
+,X,,EVGR,Evening Grosbeak
+,X,X,PUFI,Purple Finch
+X,,,CORE,Common Redpoll
+X,X,X,AMGO,American Goldfinch *
+,X,,PISI,Pine Siskin
+X,X,,SNBU,Snow Bunting
+,,,LALO,Lapland Longspur
+,X,,WCSP,White-crowned Sparrow
+X,X,X,WTSP,White-throated Sparrow
+X,X,X,ATSP,American Tree Sparrow
+X,,X,CHSP,Chipping Sparrow *
+X,X,X,SCJU,Dark-eyed Junco (Slate-colored)
+X,X,X,SOSP,Song Sparrow *
+X,X,X,LISP,Lincoln's Sparrow
+X,X,X,SWSP,Swamp Sparrow *
+X,X,X,FOSP,Fox Sparrow
+X,X,X,EATO,Eastern Towhee *
+X,X,X,NOCA,Northern Cardinal *
+X,X,X,RBGR,Rose-breasted Grosbeak *
+X,X,,INBU,Indigo Bunting *
+X,X,X,SCTA,Scarlet Tanager *
+X,X,X,PUMA,Purple Martin *
+X,X,X,CLSW,Cliff Swallow *
+X,X,X,BARS,Barn Swallow *
+X,X,X,TRES,Tree Swallow *
+,,X,BASW,Bank Swallow *
+X,X,X,NRWS,Northern Rough-winged Swallow *
+X,X,X,CEDW,Cedar Waxwing *
+,,,NSHR,Northern Shrike
+X,X,X,REVI,Red-eyed Vireo *
+X,X,X,PHVI,Philadelphia Vireo
+X,X,X,WAVI,Warbling Vireo *
+,X,X,YTVI,Yellow-throated Vireo *
+X,X,,BHVI,Blue-headed Vireo
+X,X,X,BAWW,Black-and-white Warbler *
+X,,,PROW,Prothonotary Warbler
+X,X,X,BWWA,Blue-winged Warbler
+X,X,X,GWWA,Golden-winged Warbler
+X,X,X,NAWA,Nashville Warbler
+X,X,X,OCWA,Orange-crowned Warbler
+X,X,X,TEWA,Tennessee Warbler
+X,X,X,NOPA,Northern Parula
+X,X,X,CMWA,Cape May Warbler
+X,X,X,YWAR,Yellow Warbler *
+X,,X,BTBW,Black-throated Blue Warbler
+X,X,X,MYWA,Yellow-rumped Warbler (Myrtle)
+X,X,X,MAWA,Magnolia Warbler
+X,X,X,CSWA,Chestnut-sided Warbler
+X,X,X,BBWA,Bay-breasted Warbler
+X,X,X,BLPW,Blackpoll Warbler
+X,X,X,BLBW,Blackburnian Warbler
+X,X,X,BTNW,Black-throated Green Warbler
+X,X,X,WPWA,Palm Warbler (Western)
+,X,,YPWA,Palm Warbler (Yellow)
+X,X,X,OVEN,Ovenbird *
+X,X,X,NOWA,Northern Waterthrush
+,,,LOWA,Louisiana Waterthrush
+X,X,X,MOWA,Mourning Warbler *
+X,X,X,COYE,Common Yellowthroat *
+,,,YBCH,Yellow-breasted Chat
+X,X,X,WIWA,Wilson's Warbler
+X,X,,CAWA,Canada Warbler
+X,X,X,AMRE,American Redstart *
+,X,X,HOSP,House Sparrow *
+X,X,,AMPI,American Pipit
+X,X,X,GRCA,Gray Catbird *
+X,X,X,BRTH,Brown Thrasher *
+X,X,X,HOWR,House Wren *
+X,X,X,WIWR,Winter Wren
+X,,,SEWR,Sedge Wren *
+X,X,,MAWR,Marsh Wren *
+X,X,X,BRCR,Brown Creeper
+X,X,X,WBNU,White-breasted Nuthatch *
+X,X,,RBNU,Red-breasted Nuthatch *
+X,X,X,BCCH,Black-capped Chickadee *
+X,X,X,GCKI,Golden-crowned Kinglet
+X,X,X,RCKI,Ruby-crowned Kinglet
+X,X,X,BGGN,Blue-gray Gnatcatcher *
+,X,X,EABL,Eastern Bluebird *
+X,X,X,WOTH,Wood Thrush *
+X,X,X,VEER,Veery *
+X,X,,GCTH,Gray-cheeked Thrush
+X,X,,SWTH,Swainson's Thrush
+X,X,X,HETH,Hermit Thrush
+X,X,X,AMRO,American Robin *

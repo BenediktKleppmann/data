@@ -1,0 +1,207 @@
+Company,Company TER vs Industry TER,Industry,Rank,Temkin Experience Rating (TER)
+Sam's Club,13.0,Retailer,1,85%
+Publix,4.9,Grocery Chain,2,81%
+A credit union,14.5,Bank,3,80%
+Chick-fil-A,6.2,Fast Food Chain,3,80%
+Subway,6.4,Fast Food Chain,3,80%
+Starbucks,6.5,Fast Food Chain,3,80%
+H.E.B.,3.6,Grocery Chain,3,80%
+Winn-Dixie,3.6,Grocery Chain,3,80%
+Aldi,3.7,Grocery Chain,3,80%
+Sonic Drive-in,3.6,Fast Food Chain,10,78%
+Kroger,1.7,Grocery Chain,10,78%
+ShopRite,1.9,Grocery Chain,10,78%
+Amazon.com,5.9,Retailer,10,78%
+PNC,11.6,Bank,14,77%
+Pizza Hut,2.5,Fast Food Chain,14,77%
+Target,4.9,Retailer,14,77%
+Walgreens,5.0,Retailer,14,77%
+Arby's,1.5,Fast Food Chain,18,76%
+Whole Foods,-0.4,Grocery Chain,18,76%
+Hy-Vee,-0.1,Grocery Chain,18,76%
+BJ's Wholesale Club,3.5,Retailer,18,76%
+Lowe's,3.9,Retailer,18,76%
+Dunkin Donuts,0.8,Fast Food Chain,23,75%
+Taco Bell,0.8,Fast Food Chain,23,75%
+Wendy's,1.2,Fast Food Chain,23,75%
+Food Lion,-1.7,Grocery Chain,23,75%
+Little Caesar's,-0.3,Fast Food Chain,27,74%
+Giant Eagle,-2.7,Grocery Chain,27,74%
+Safeway,-2.1,Grocery Chain,27,74%
+Stop & Shop,-2.0,Grocery Chain,27,72%
+FedEx,1.4,Parcel Delivery Service,27,74%
+JCPenney,1.7,Retailer,27,74%
+Home Depot,1.7,Retailer,27,74%
+CVS,1.9,Retailer,27,74%
+Southwest Airlines,11.9,Airline,35,73%
+TD Bank,7.8,Bank,35,73%
+USAA,8.3,Bank,35,73%
+USAA,12.7,Credit Card Issuer,35,73%
+Dairy Queen,-1.1,Fast Food Chain,35,73%
+Albertsons,-3.8,Grocery Chain,35,73%
+Save-a-lot,-3.3,Grocery Chain,35,73%
+USAA,7.7,Insurance Carrier,35,73%
+UPS,0.9,Parcel Delivery Service,35,73%
+Rite Aid,0.8,Retailer,35,73%
+ING Direct,6.8,Bank,45,72%
+Alamo,11.4,Car Rental Agency,45,72%
+Hampton Inn,5.8,Hotel Chain,45,72%
+Marriott,6.4,Hotel Chain,45,72%
+State Farm,6.4,Insurance Carrier,45,72%
+Costco,-0.5,Retailer,45,72%
+Staples,0.0,Retailer,45,72%
+KFC,-3.2,Fast Food Chain,52,71%
+McDonalds,-2.9,Fast Food Chain,52,71%
+US Postal Service,-0.8,Parcel Delivery Services,52,71%
+Toys 'R' Us,-1.2,Retailer,52,71%
+Old Navy,-1.0,Retailer,52,71%
+Chevrolet,7.7,Auto Dealer,57,70%
+Burger King,-4.2,Fast Food Chain,57,70%
+Charles Schwab,6.7,Investment Firm,57,70%
+Wal-Mart,-2.3,Retailer,57,70%
+Kohl's,-2.0,Retailer,57,70%
+Jack in the Box,-5.1,Fast Food Chain,62,69%
+Holiday Inn Express,2.7,Hotel Chain,62,69%
+Courtyard by Marriott,3.4,Hotel Chain,62,69%
+The Hartford,3.2,Insurance Carrier,62,69%
+Macy's,-3.0,Retailer,62,69%
+AirTran Airways,7.3,Airline,67,68%
+Fifth Third,3.1,Bank,67,68%
+American Express,7.6,Credit Card Issuer,67,68%
+Domino's,-6.1,Fast Food Chain,67,68%
+Piggly Wiggly,-8.3,Grocery Chain,67,68%
+Kaiser Permanente,15.5,Health Plan,67,68%
+Comfort Inn,1.6,Hotel Chain,67,68%
+Fidelity Investments,4.8,Investment Firm,67,68%
+Whirlpool,4.1,Appliance Maker,75,67%
+Bosch,4.9,Appliance Maker,75,67%
+BMW,4.5,Auto Dealer,75,67%
+Toyota,4.8,Auto Dealer,75,67%
+US Bank,6.8,Credit Card Issuer,75,67%
+Best Western,0.6,Hotel Chain,75,67%
+Progressive,1.4,Insurance Company,75,67%
+Sears,-5.5,Retailer,75,67%
+Best Buy,-5.4,Retailer,75,67%
+Kmart,-5.0,Retailer,75,67%
+SunTrust Bank,1.1,Bank,85,66%
+Holiday Inn,0.0,Hotel Chain,85,66%
+Barnes & Noble,-6.5,Retailer,85,66%
+TracFone,12.1,Wireless Carrier,85,66%
+JetBlue Airlines,3.8,Airline,89,65%
+Chase,-0.5,Bank,89,65%
+Apple,6.2,Computer Maker,89,65%
+Chase,4.6,Credit Card Issuer,89,65%
+Discover,4.6,Credit Card Issuer,89,65%
+Hilton,-0.6,Hotel Chain,89,65%
+Farmers,-0.6,Insurance Carrier,89,65%
+Nationwide,-0.1,Insurance Carrier,89,65%
+Ameriprise Financial,1.8,Investment Firm,89,65%
+Edward Jones,2.1,Investment Firm,89,65%
+Vanguard,2.4,Investment Firm,89,65%
+A credit union,2.4,Investment Firm,89,65%
+eBay,-7.2,Retailer,89,65%
+Alaska Airlines,2.8,Airline,102,64%
+LG,1.0,Appliance Maker,102,64%
+GE,1.1,Appliance Maker,102,64%
+Budget,3.3,Car Rental Agency,102,64%
+Hardees,-9.9,Fast Food Chain,102,64%
+Hyatt,-1.8,Hotel Chain,102,64%
+GEICO,-2.0,Insurance Carrier,102,64%
+Allstate,-1.8,Insurance Carrier,102,64%
+Office Depot,-7.8,Retailer,102,64%
+Samsung,0.4,Appliance Maker,111,63%
+US Bancorp,-2.5,Bank,111,63%
+Wells Fargo,-2.5,Bank,111,63%
+Hertz,2.8,Car Rental Agency,111,63%
+AAA,-2.2,Insurance Carrier,111,63%
+Cablevision,8.4,Internet Service Provider,111,63%
+Toshiba,-1.0,Appliance Maker,117,62%
+Honda,-1.1,Auto Dealer,117,62%
+Citizens,-3.1,Bank,117,62%
+Enterprise,1.1,Car Rental Agency,117,62%
+Toshiba,3.4,Computer Maker,117,62%
+Lenovo,3.5,Computer Maker,117,62%
+ING Direct,-1.4,Investment Firm,117,62%
+Hewlett-Packard,1.9,Computer Maker,124,61%
+Dish Network/EchoStar,6.9,TV Service Provider,124,61%
+Bright House Networks,7.2,TV Service Provider,124,61%
+Verizon Wireless,7.0,Wireless Carrier,124,61%
+AT&T,7.2,Wireless Carrier,124,61%
+Regions,-5.4,Bank,129,60%
+Capital One,-5.3,Bank,129,60%
+Super 8,-6.2,Hotel Chain,129,60%
+Liberty Mutual,-5.8,Insurance Carrier,129,60%
+Sprint,6.2,Wireless Carrier,129,60%
+Ford,-4.0,Auto Dealer,134,59%
+Sony,0.1,Computer Maker,134,59%
+Wells Fargo,-1.7,Credit Card Issuer,134,59%
+TriCare,5.8,Health Plan,134,59%
+MetLife,-7.0,Insurance Carrier,134,59%
+American Family,-6.3,Insurance Carrier,134,59%
+AOL,4.2,Internet Service Provider,134,59%
+Merrill Lynch,-4.0,Investment Firm,134,59%
+E*TRADE,-3.9,Investment Firm,134,59%
+Virgin Mobile,4.8,Wireless Carrier,134,59%
+US Cellular,5.4,Wireless Carrier,134,59%
+Delta/Northwest Airlines,-2.7,Airline,145,58%
+HSBC,-7.2,Bank,145,58%
+Acer,-0.8,Computer Maker,145,58%
+Compaq,-0.5,Computer Maker,145,58%
+Motel 6,-8.3,Hotel Chain,145,58%
+DirecTV,4.4,TV Service Provider,145,58%
+Continental Airlines,-3.6,Airline,151,57%
+Avis,-3.2,Car Rental Agency,151,57%
+eMachines,-1.8,Computer Maker,151,57%
+Bank of America,-3.7,Credit Card Issuer,151,57%
+21st Century,-8.8,Insurance Carrier,151,57%
+Travelers,-8.8,Insurance Carrier,151,57%
+Verizon,1.9,Internet Service Provider,151,57%
+Morgan Stanley Smith Barney,-6.0,Investment Firm,151,57%
+TD Ameritrade,-6.0,Investment Firm,151,57%
+DHL,-15.1,Parcel Delivery Service,151,57%
+RadioShack,-14.8,Retailer,151,57%
+Cox Communication,3.5,TV Service Provider,151,57%
+Hyundai,-6.9,Auto Dealer,163,56%
+Nissan,-6.8,Auto Dealer,163,56%
+Chrysler,-6.1,Auto Dealer,163,56%
+Dollar,-4.8,Car Rental Agency,163,56%
+HSBC,-4.7,Credit Card Issuer,163,56%
+Medicare,3.0,Health Plan,163,56%
+Road Runner,0.8,Internet Service Provider,163,56%
+AT&T,0.9,Internet Service Provider,163,56%
+United Airlines,-6.2,Airline,171,55%
+Dodge,-7.2,Auto Dealer,171,55%
+Bank of America,-10.4,Bank,171,55%
+Aetna,2.1,Health Plan,171,55%
+United Healthcare,2.2,Health Plan,171,55%
+Optimum (iO)/Cablevision,0.9,TV Service Provider,171,55%
+T-Mobile,1.2,Wireless Carrier,171,55%
+Kia,-8.3,Auto Dealer,178,54%
+Dell,-4.8,Computer Maker,178,54%
+Gateway,-4.7,Computer Maker,178,54%
+Capital One,-6.6,Credit Card Issuer,178,54%
+Humana,0.8,Health Plan,178,54%
+Cox Communications,-1.2,Internet Service Provider,178,54%
+Qwest,-0.7,Internet Service Provider,178,54%
+Comcast,-0.5,Internet Service Provider,178,54%
+Wells Fargo Advisors,-9.3,Investment Firm,178,54%
+American Airlines,-8.3,Airline,187,53%
+Citigroup,-6.9,Credit Card Issuer,187,53%
+MSN (Microsoft Network),-1.4,Internet Service Provider,187,53%
+US Airways,-9.1,Airline,190,52%
+Days Inn,-13.6,Hotel Chain,190,52%
+Comcast,-2.4,TV Service Provider,190,52%
+Citibank,-14.4,Bank,193,51%
+Empire (BCBS),-2.0,Health Plan,193,51%
+Time Warner Cable,-3.2,TV Service Provider,193,51%
+Verizon,-2.9,TV Service Provider,193,51%
+AT&T,-2.6,TV Service Provider,193,51%
+CIGNA,-2.5,Health Plan,198,50%
+Blue Shield of California,-2.3,Health Plan,198,50%
+Anthem (BCBS),-4.4,Health Plan,200,48%
+Medicaid,-6.6,Health Plan,201,46%
+Health Net,-8.5,Health Plan,202,44%
+Charter Communications,-10.5,Internet Service Provider,202,44%
+Highmark (BCBS),-9.9,Health Plan,204,43%
+Charter Communications,-12.0,TV Service Provider,205,42%
+Earthlink,-13.5,Internet Service Provider,206,41%

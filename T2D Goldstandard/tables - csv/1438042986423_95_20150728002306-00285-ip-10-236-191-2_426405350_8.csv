@@ -1,0 +1,13 @@
+Category,Description,Extends Certification to,Model Tested,Notes & Guides,Versions when testing
+ATA,"Ports: PHONE, PSTN, LAN and WAN",AG198,AG188N,,Elx: 2.0.3
+Phone,SIP/IAX2 IP Phone,AT530,AT530P,,"Elx: 2.0.3 (EC: 2.5, see Notes) FW: 1.7.493.353"
+Phone,SIP/IAX2 IP Phone,"AT620 , AT610 , AT610P , AT640 , AT640P",AT620P,,"Elx: 2.0.3 (EC: 2.5, see Notes) FW: 1.7.370.151"
+Phone,"HD Voice, 4 SIP accounts, Multifunction keys","AT800, AT800P, AT800D, AT800DP, AT810, AT810P, AT820, AT820P, AT840",AT840P,,Elx: 2.3 FW: 2.2.3.11166
+Interface Card,4 ports FXO/FXS PCI,AXE400P,AX400P,,Elx: 2.2 Drvr: Dahdi 2.4.1.2-1
+Interface Card,16 ports FXO/FXS PCI,"AX800P , AXE800P , AXE1600P",AX1600P,,Elx: 2.2 Drvr: Dahdi 2.4.1.2-1
+Interface Card,Quad ISDN BRI,,AX4B,,Elx: 2.2 Drvr: Dahdi 2.4.1.2-5
+Interface Card,Four ports ISDN PRI E1/T1/J1,"AX1D , AX2D",AX4D,,Elx: 2.2 Drvr: Dahdi 2.4.1.2-5
+IP PBX,Four ports Embedded IP PBX system,"IP01 , IP02 , IP08",IP04,,Elx: 2.0.3 Drvr: 1.4.9.2(Zaptel)
+IP PBX,Two GSM and four FXO/FXS Channels Embedded IP PBX system,IP4G,IP2G4A,,Elx: 2.0.3 Drvr: 1.4.9.2(Zaptel)
+ATA,WiFi Mesh ATA,,MP01,,Elx: 2.2 FW: 13-r238
+Phone,SIP IP Phone with HD voice quality,"Rainbow2 , Rainbow3 , Rainbow4",Rainbow1,,Elx: 2.4 FW: 1.4

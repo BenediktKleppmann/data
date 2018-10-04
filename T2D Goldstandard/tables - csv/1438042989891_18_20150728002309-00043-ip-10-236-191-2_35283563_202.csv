@@ -1,0 +1,22 @@
+Acc.,Cat.,Level,Move,PP,Pwr.,Type
+——%,Status,00Start,Splash,40,0000—,Normal
+——%,Status,00Start,Synthesis,5,0000—,Grass
+100100%,Status,00Start,Tail Whip,30,0000—,Normal
+100100%,Physical,00Start,Tackle,35,05050,Normal
+——%,Status,044,Synthesis,5,0000—,Grass
+100100%,Status,077,Tail Whip,30,0000—,Normal
+100100%,Physical,1010,Tackle,35,05050,Normal
+07575%,Status,1212,PoisonPowder,35,0000—,Poison
+07575%,Status,1414,Stun Spore,30,0000—,Grass
+07575%,Status,1616,Sleep Powder,15,0000—,Grass
+100100%,Physical,2020,Bullet Seed,30,02525,Grass
+09090%,Status,2424,Leech Seed,10,0000—,Grass
+100100%,Special,2929,Mega Drain,15,04040,Grass
+100100%,Physical,3434,Acrobatics,15,05555,Flying
+——%,Status,3939,Rage Powder,20,0000—,Bug
+100100%,Status,4444,Cotton Spore,40,0000—,Grass
+100100%,Physical,4949,U-turn,20,07070,Bug
+100100%,Status,5454,Worry Seed,10,0000—,Grass
+100100%,Special,5959,Giga Drain,10,07575,Grass
+08585%,Physical,6464,Bounce,5,08585,Flying
+100100%,Status,6969,Memento,10,0000—,Dark

@@ -1,0 +1,205 @@
+City,City population,Country,Mayor,Metro population,World rank
+Guayaquil,"2,196,000",Ecuador,Jaime Nebot,"2,686,000",131
+QUITO,"1,648,000",Ecuador,Augusto Barrera,"1,842,000",187
+CAIRO,"7,764,000",Egypt,Abdul Azim Wazir,"15,546,000",21
+Alexandria,"4,110,000",Egypt,Adel Labib,"4,350,000",52
+Giza,"2,225,000",Egypt,n/k,"2,600,000",127
+Subra al-Haymah,"998,000",Egypt,n/k,,412
+SAN SALVADOR,"520,000",El Salvador,Norman Quijano,"1,580,000",n/r
+ASMARA,"392,000",Eritrea,n/k,"881,000",n/r
+TALLINN,"407,000",Estonia,Edgar Savisaar,,n/r
+ADDIS ABABA,"3,385,000",Ethiopia,Kuma Demeksa,"4,568,000",70
+HELSINKI,"583,000",Finland,Jussi Pajunen,"1,311,000",577
+PARIS,"2,113,000",France,Bertrand Delano�,"11,769,000",133
+Marseille,"852,000",France,Jean-Claude Gaudin,"1,605,000",464
+Lyon,"472,000",France,G�rard Collomb,"1,665,000",n/r
+Toulouse,"438,000",France,Pierre Cohen,"851,000",n/r
+Nice,"347,000",France,Christian Estrosi,"943,000",n/r
+Nantes,"283,000",France,Jean-Marc Ayrault,"804,000",n/r
+Strasbourg,"273,000",France,Roland Rie,"639,000",n/r
+Montpellier,"252,000",France,H�l�ne Mandroux-Colas,,n/r
+Bordeaux,"250,000",France,Alain Jupp�,"1,010,000",n/r
+Lille,"226,000",France,Martine Aubry,"1,143,000",n/r
+Rennes,"206,000",France,Daniel Delaveau,,n/r
+TBILISI,"1,490,000",Georgia,Giorgi Ugulava,"1,550,000",221
+BERLIN,"3,432,000",Germany,Klaus Wowereit,"3,943,000",68
+Hamburg,"1,775,000",Germany,Olaf Scholz,"3,260,000",166
+Munich,"1,367,000",Germany,Christian Ude,"2,600,000",271
+Cologne,"995,000",Germany,J�rgen Roters,"11,297,000",414
+Frankfurt,"665,000",Germany,Petra Roth,"2,717,000",557
+Stuttgart,"600,000",Germany,Wolfgang Schuster,"2,330,000",570
+Dortmund,"584,000",Germany,Ullrich Sierau,,573
+Essen,"580,000",Germany,Reinhard Pa�,,579
+Bremen,"547,000",Germany,Jens B�hrnsen,"1,009,000",590
+Hannover,"520,000",Germany,Stephan Weil,"1,130,000",n/r
+Leipzig,"515,000",Germany,Burkhard Jung,"1,417,000",n/r
+Dresden,"512,000",Germany,Helma Orosz,"1,030,000",n/r
+Nuremberg,"504,000",Germany,Ulrich Maly,"1,008,000",n/r
+Duisburg,"494,000",Germany,Adolf Sauerland,,n/r
+Wuppertal,"353,000",Germany,Peter Jung,,n/r
+Bielefeld,"324,000",Germany,Peter Clausen,"1,420,000",n/r
+Mannheim,"311,000",Germany,Peter Kurz,"1,456,000",n/r
+Karlsruhe,"291,000",Germany,Heinz Fenrich,,n/r
+Wiesbaden,"277,000",Germany,Helmut M�ller,,n/r
+M�nster,"274,000",Germany,Markus Lewe,,n/r
+Augsburg,"263,000",Germany,Kurt Gribl,,n/r
+Gelsenkirchen,"262,000",Germany,Frank Baranowski,,n/r
+Aachen,"259,000",Germany,Marcel Philipp,"1,240,000",n/r
+Braunschweig,"246,000",Germany,Gert Hoffmann,,n/r
+Chemnitz,"243,000",Germany,Barbara Ludwig,"1,082,000",n/r
+Krefeld,"236,000",Germany,Gregor Kathstede,,n/r
+Halle,"233,000",Germany,Dagmar Szabados,,n/r
+Magdeburg,"230,000",Germany,Lutz Tr�mper,,n/r
+Freiburg,"220,000",Germany,Dieter Salomon,,n/r
+Oberhausen,"216,000",Germany,Klaus Wehling,,n/r
+L�beck,"211,000",Germany,Bernd Saxe,,n/r
+Erfurt,"203,000",Germany,Andreas Bausewein,,n/r
+Rostock,"201,000",Germany,Roland Methling,,n/r
+ACCRA,"1,605,000",Ghana,Alfred Vanderpuije,"2,756,000",192
+Kumasi,"1,500,000",Ghana,Samuel Sarpong,"2,500,000",216
+ATHENS,"757,000",Greece,Giorgos Kaminis,"3,216,000",518
+Thessaloniki,"407,000",Greece,Vasilis Papageorgopoulos,"798,000",n/r
+GUATEMALA CITY,"1,090,000",Guatemala,Alvaro Arz�,"2,564,000",372
+CONAKRY,"1,931,000",Guinea,Mamadou Wasco Camara,,145
+PORT-AU-PRINCE,"1,083,000",Haiti,Jean Yves Jason,"1,728,000",376
+Tegucigalpa,"1,200,000",Honduras,Ricardo Alvarez,"1,324,000",326
+BUDAPEST,"1,712,000",Hungary,Istv�n Tarl�s,"2,503,000",175
+Mumbai (Bombay),"13,900,000",India,Shraddha Jadhav,"21,200,000",3
+DELHI,"12,100,000",India,Kanwar Sain,"16,713,000",5
+Bangalore,"5,840,000",India,SK Nataraj,"6,562,000",33
+Surat,"5,390,000",India,Rajendra Desai,"6,347,000",34
+Kolkata,"5,100,000",India,Bikash Ranjan Bhattacharya,"15,420,000",36
+Chennai,"4,600,000",India,M Subramaniam,"7,330,000",44
+Ahmadabad,"4,525,000",India,Kanaji Thakor,"6,168,000",45
+Hyderabad,"3,637,000",India,Banda Karthika Reddy,"6,290,000",60
+Pune,"3,337,000",India,Mohansingh Rajpal,"4,470,000",71
+Kanpur,"3,100,000",India,Ravindra Patani,"4,865,000",75
+Jaipur,"3,050,000",India,Jyoti Khandelwal,"5,690,000",78
+Durg,"2,810,000",India,Dr Shiv Kumar Tamer,,85
+Nagpur,"2,420,000",India,Archana Dehankar,,117
+Lucknow,"2,342,000",India,Dinesh Sharma,"2,686,000",121
+Indore,"1,912,000",India,Krishna Murari Moghe,"1,920,000",147
+Patna,"1,800,000",India,GhanShyam Kumar,"2,500,000",160
+Agra,"1,650,000",India,Anjula Singh Mahaur,"1,800,000",184
+Nashik,"1,620,000",India,Nayana Gholap,,190
+Pimpri Chinchwad,"1,515,000",India,Yogesh Behl,,213
+Vadodara,"1,500,000",India,Balakrishna Shukla,"3,642,000",219
+Bhopal,"1,458,000",India,Krishna Gaur,"1,600,000",231
+Ludhiana,"1,400,000",India,n/k,"4,400,000",256
+Thane,"1,375,000",India,Ashjok Vaity,,268
+Varanasi,"1,375,000",India,Kaushalendra Singh,"3,150,000",269
+Rajkot,"1,336,000",India,Sandhya Vyas,,283
+Ranchi,"1,290,000",India,Rama Khalkho,,298
+Meerut,"1,277,000",India,n/k,,306
+Allahabad,"1,215,000",India,Jitendr Nath Singh,"1,250,000",320
+Amritsar,"1,195,000",India,Shawet Malik,"1,300,000",329
+Aurangabad,"1,168,000",India,Vijaya Rahatkar,,339
+Solapur,"1,134,000",India,Aruna Vakase,,351
+Madurai,"1,130,000",India,Thenmozhi Gopinathan,,355
+Jabalpur,"1,117,000",India,Prabhat Sahu,"1,150,000",358
+Mirat,"1,095,000",India,n/k,"1,095,000",370
+Dhanbad,"1,065,000",India,n/k,"1,200,000",383
+Faridabad,"1,055,000",India,n/k,"2,193,000",387
+Haora,"1,008,000",India,Sri Gopal Mukherjee,,406
+Haora,"1,008,000",India,Sri Gopal Mukherjee,"1,020,000",407
+Jodhpur,"1,007,000",India,Om Kumari Gehlot,,408
+Ghaziabad,"970,000",India,Damyanti Goel,,420
+Visakhapatnam,"970,000",India,B N Vishnu,"1,330,000",421
+Vijayawada,"957,000",India,Ratna Bindu,"1,150,000",428
+Coimbatore,"931,000",India,R.Venkatachalam,"1,446,000",433
+Srinagar,"915,000",India,Salman Sagar,"1,050,000",440
+Chandigarh,"901,000",India,n/k,,449
+Sholapur,"890,000",India,n/k,"890,000",455
+Thiruvananthapuram,"810,000",India,C Jayan Babu,"955,000",488
+Guwahati,"808,000",India,Dolly Borah,"820,000",492
+Hubli,"801,000",India,n/k,"801,000",498
+Mysore,"799,000",India,Purushotham,,501
+Tiruchchirappalli,"760,000",India,n/k,"863,000",517
+Jalandhar,"714,000",India,n/k,"764,000",532
+Gwalior,"690,000",India,Sameeksha Gupta,"866,000",542
+Aligarh,"680,000",India,n/k,"1,116,000",549
+Amravati,"678,000",India,n/k,"1,031,000",552
+Bhubaneswar,"659,000",India,n/k,"1,455,000",559
+Jamshedpur,"630,000",India,n/k,"1,135,000",563
+Bhilai,"564,000",India,n/k,"942,000",583
+Kozhikode,"437,000",India,M. Bhaskaran,,n/r
+JAKARTA,"10,100,000",Indonesia,Fauzi Bowo,"24,100,000",11
+Surabaya,"3,100,000",Indonesia,Bambang D H,"3,700,000",77
+Bandung,"2,510,000",Indonesia,Dada Rosada,"3,829,000",106
+Medan,"1,990,000",Indonesia,Rahudman Harahap,"2,390,000",141
+Palembang,"1,600,000",Indonesia,Eddy Santana Putra,,195
+Tangerang,"1,545,000",Indonesia,Wahidin Halim,,203
+Semarang,"1,393,000",Indonesia,Soemarmo HS,"1,400,000",259
+Ujung Pandang,"1,170,000",Indonesia,n/k,"1,254,000",338
+Makasar,"1,113,000",Indonesia,Ilham Arief Sirajuddin,,360
+Bogor,"866,000",Indonesia,Diani Budiarto,,460
+Padang,"820,000",Indonesia,Fauzi Bahar,"900,000",481
+Bandar Lampung,"743,000",Indonesia,n/k,"1,123,000",522
+Malang,"742,000",Indonesia,n/k,"921,000",523
+Surakarta,"533,000",Indonesia,n/k,"857,000",600
+Denpasar,"491,000",Indonesia,n/k,"934,000",n/r
+Yogyakarta,"417,000",Indonesia,n/k,"840,000",n/r
+Mataram,"330,000",Indonesia,n/k,"1,081,000",n/r
+Cirebon,"319,000",Indonesia,n/k,"926,000",n/r
+Tegal,"238,000",Indonesia,n/k,"784,000",n/r
+TEHRAN,"8,430,000",Iran,Mohammad Bagher Ghalibaf,"13,450,000",16
+Mashhad,"2,910,000",Iran,Mohammad Pejman,"3,000,000",81
+Esfahan,"1,584,000",Iran,Morteza Saqaeian Nejad,"2,600,000",197
+Tabriz,"1,420,000",Iran,Alireza Novin,,248
+Karaj,"1,380,000",Iran,n/k,,264
+Ahwaz,"1,338,000",Iran,Saeed Mombeini,"1,500,000",282
+Shiraz,"1,228,000",Iran,Mehran E'temad,"1,300,000",318
+Qom,"1,042,000",Iran,n/k,,393
+Kermanshah,"823,000",Iran,n/k,"966,000",477
+Baghdad,"6,050,000",Iraq,Sabir al-Issawi,"6,500,000",32
+Basrah,"1,760,000",Iraq,Jabbar Jaber Al-Latif,"3,800,000",168
+Irbil,"1,294,000",Iraq,n/k,"1,5000,000",295
+Mosul,"1,139,000",Iraq,n/k,"1,139,000",348
+Dublin,"506,000",Ireland,Emer Costello,"1,661,000",n/r
+Jerusalem,"764,000",Israel,Nir Barkat Nazareth,"1,029,000",514
+TEL AVIV,"383,000",Israel,Ron Huldai,"3,250,000",n/r
+Haifa,"276,000",Israel,Yona Yahav,"975,000",n/r
+ROME,"2,732,000",Italy,Gianni Alemanno,"3,555,000",90
+Milan,"1,302,000",Italy,Letizia Moratti,"4,051,000",289
+Naples,"963,000",Italy,Rosa Russo Jervolino,"3,000,000",423
+Turin,"910,000",Italy,Sergio Chiamparino,"1,617,000",442
+Palermo,"684,000",Italy,Diego Cammarata,"947,000",546
+Florence,"375,000",Italy,Matteo Renzi,"825,000",n/r
+Catania,"337,000",Italy,n/k,"831,000",n/r
+Abidjan,"3,800,000",Ivory Coast,Pierre Dj�dji Amondji,"4,000,000",56
+Bouakt,"531,000",Ivory Coast,n/k,"775,000",n/r
+KINGSTON,"650,000",Jamaica,n/k,"925,000",562
+TOKYO,"8,653,000",Japan,Shintaro Ishihara,"31,036,000",15
+Yokohama,"3,655,000",Japan,Fumiko Hayashi,,59
+Osaka,"2,647,000",Japan,Kunio Hiramatsu,"17,590,000",95
+Nagoya,"2,260,000",Japan,Takashi Kawamura,"9,250,000",125
+Sapporo,"1,906,000",Japan,Fumio Ueda,"2,130,000",148
+Kobe,"1,534,000",Japan,Tatsuo Yada,"1,560,000",206
+Kyoto,"1,466,000",Japan,Daisaku Kadokawa,"1,500,000",227
+Fukuoka,"1,450,000",Japan,Hiroshi Yoshida,"2,230,000",234
+Kawasaki,"1,390,000",Japan,Takao Abe,"1,450,000",261
+Saitama,"1,183,000",Japan,Hayato Shimizu,,334
+Hiroshima,"1,174,000",Japan,Tadatoshi Akiba,"1,700,000",336
+Sendai,"1,032,000",Japan,Emiko Okuyama,"1,300,000",396
+Kitakyushu,"985,000",Japan,Kenji Kitahashi,"1,050,000",418
+Chiba,"962,000",Japan,Toshihito Kumagai,"970,000",424
+Sakai,"836,000",Japan,Keisuke Kiharac,,470
+Hamamatsu,"815,000",Japan,Yasutomo Suzuki,"1,093,000",482
+Niigata,"812,000",Japan,Akira Shinoda,,486
+Shizuoka,"718,000",Japan,Zenkichi Kojima,"1,211,000",530
+Okayama,"700,000",Japan,Shigeo Takaya,"1,250,000",539
+Okinawa,"129,000",Japan,Kita Kurose,,n/r
+AMMAN,"1,919,000",Jordan,Omar Maani,"2,524,000",146
+ALMATY,"1,420,000",Kazakhstan,Akhmetzhan Yesimov,"1,500,000",244
+ASTANA,"803,000",Kazakhstan,Imangali Tasmagambetov,,496
+Mombasa,"880,000",Kenia,Ahmed Abubakar Mohdhar,,458
+NAIROBI,"3,130,000",Kenya,Geoffrey Majiwa,"3,300,000",74
+KUWAIT CITY,"96,000",Kuwait,n/k,"2,380,000",n/r
+BISHKEK,"765,000",Kyrgyzstan,Nariman Tuleyev,"800,000",513
+Osh,"230,000",Kyrgyztan,Melis Myrzakmatov,,n/r
+RIGA,"725,000",Latvia,Nils Usakovs,"878,000",528
+BEIRUT,"1,250,000",Lebanon,Abdel Mounim Ariss,"2,600,000",309
+MONROVIA,"543,000",Liberia,Ophelia Hoff Saytumah,"1,010,000",594
+TRIPOLI,"1,683,000",Libya,Abdullatif Abdulrahman Aldaali,"2,270,000",179
+Benghazi,"1,471,000",Libya,n/k,"1,500,000",226
+VILNIUS,"545,000",Lithuania,Vilius Navickas,,593

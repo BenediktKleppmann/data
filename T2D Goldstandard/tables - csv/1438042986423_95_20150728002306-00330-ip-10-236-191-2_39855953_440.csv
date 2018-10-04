@@ -1,0 +1,13 @@
+Accuracy,B2W2,BW,Cat.,Move,PP,Power,Type
+100}}100%,000Start,000Start,Physical,Tackle,35,05050,Normal
+100}}100%,01010,01010,Special,Water Gun,25,04040,Water
+100}}100%,01010,01010,Special,Ember,25,04040,Fire
+100}}100%,01010,01010,Special,Powder Snow,25,04040,Ice
+100}}100%,01515,02020,Physical,Headbutt,15,07070,Normal
+—}}—%,02020,03030,Status,Rain Dance,5,0000—,Water
+—}}—%,02020,03030,Status,Sunny Day,5,0000—,Fire
+—}}—%,02020,03030,Status,Hail,10,0000—,Ice
+100}}100%,03030,04040,Special,Weather Ball,10,05050,Normal
+080}}80%,04040,05050,Special,Hydro Pump,5,120120,Water
+085}}85%,04040,05050,Special,Fire Blast,5,120120,Fire
+070}}70%,04040,05050,Special,Blizzard,5,120120,Ice

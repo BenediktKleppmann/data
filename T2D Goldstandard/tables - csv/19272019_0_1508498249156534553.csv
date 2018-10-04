@@ -1,0 +1,469 @@
+University Location,University Name,University Type
+Abilene (TX),Abilene Christian University,Private
+Garden City (NY),Adelphi University,Private
+Albany (GA),Albany State University,Public
+Alcorn State (MS),Alcorn State University,Public
+Springfield (MA),American International College,Private
+Anderson (IN),Anderson University,Private
+Berrien Springs (MI),Andrews University,Private
+San Angelo (TX),Angelo State University,Public
+Tempe (AZ),Arizona State University,Public
+State University (AR),Arkansas State University,Public
+Savannah (GA),Armstrong Atlantic State University,Public
+Ashland (OH),Ashland University,Private
+Auburn (AL),Auburn University,Public
+Montgomery (AL),Auburn University - Montgomery,Public
+Augusta (GA),Augusta State University,Public
+Sioux Falls (SD),Augustana College,Private
+Aurora (IL),Aurora University,Private
+Clarksville (TN),Austin Peay State University,Public
+Azusa (CA),Azusa Pacific University,Private
+Baldwin City (KS),Baker University,Private
+Muncie (IN),Ball State University,Public
+Miami Shores (FL),Barry University,Private
+Wilson (NC),Barton College,Private
+Waco (TX),Baylor University,Private
+Louisville (KY),Bellarmine University,Private
+Nashville (TN),Belmont University,Private
+Saint Paul (MN),Bethel University,Private
+Binghamton (NY),Binghamton University,Public
+La Mirada (CA),Biola University,Private
+Quincy (IL),Blessing-Rieman College of Nursing,Private
+Bloomsburg (PA),Bloomsburg University,Public
+Boise (ID),Boise State University,Public
+Chestnut Hill (MA),Boston College,Private
+Bowie (MD),Bowie State University,Public
+Bowling Green (OH),Bowling Green State University,Public
+Peoria (IL),Bradley University,Private
+Gainesville (GA),Brenau University,Private
+Provo (UT),Brigham Young University,Private
+Rexburg (ID),Brigham Young University - Idaho,Private
+Bakersfield (CA),California State University - Bakersfield,Public
+Chico (CA),California State University - Chico,Public
+Carson (CA),California State University - Dominguez Hills,Public
+Fresno (CA),California State University - Fresno,Public
+Fullerton (CA),California State University - Fullerton,Public
+Long Beach (CA),California State University - Long Beach,Public
+Los Angeles (CA),California State University - Los Angeles,Public
+Sacramento (CA),California State University - Sacramento,Public
+San Bernardino (CA),California State University - San Bernardino,Public
+Turlock (CA),California State University - Stanislaus,Public
+Grand Rapids (MI),Calvin College,Private
+Columbus (OH),Capital University,Private
+Milwaukee (WI),Cardinal Stritch University,Private
+Pittsburgh (PA),Carlow College,Private
+Helena (MT),Carroll College,Private
+Cleveland (OH),Case Western Reserve University,Private
+Castleton (VT),Castleton State College,Public
+"Washington, D.C.","Catholic University of America, The",Private
+Allentown (PA),Cedar Crest College,Private
+Cedarville (OH),Cedarville University,Private
+New Britain (CT),Central Connecticut State University,Public
+Warrensburg (MO),Central Missouri State University,Public
+Clarion (PA),Clarion University,Public
+Dubuque (IA),Clarke College,Private
+Omaha (NE),Clarkson College,Private
+Clemson (SC),Clemson University,Public
+Cleveland (OH),Cleveland State University,Public
+Cincinnati (OH),College of Mount St. Joseph,Private
+Ewing (NJ),"College of New Jersey, The",Public
+New Rochelle (NY),"College of New Rochelle, The",Private
+Saint Joseph (MN),College of Saint Benedict | Saint John's University,Private
+Saint Paul (MN),College of St. Catherine,Private
+Duluth (MN),"College of St. Scholastica, The",Private
+Staten Island (NY),College of Staten Island,Public
+Pueblo (CO),Colorado State University - Pueblo,Public
+New York (NY),Columbia University,Private
+Moorhead (MN),Concordia College,Private
+Mequon (WI),Concordia University Wisconsin,Private
+Baltimore (MD),Coppin State College,Public
+Omaha (NE),Creighton University,Private
+Dover (DE),Delaware State University,Public
+Cleveland (MS),Delta State University,Public
+Chicago (IL),Depaul University,Private
+San Rafael (CA),Dominican University of California,Private
+Philadelphia (PA),Drexel University,Private
+Durham (NC),Duke University,Private
+Pittsburgh (PA),Duquesne University,Private
+Buffalo (NY),D'Youville College,Private
+Greenville (NC),East Carolina University,Public
+Johnson City (TN),East Tennessee State University,Public
+Richmond (KY),Eastern Kentucky University,Public
+Harrisonburg (VA),Eastern Mennonite University,Private
+Ypsilanti (MI),Eastern Michigan University,Public
+Cheney (WA),Eastern Washington University,Public
+Madison (WI),Edgewood College,Private
+Edinboro (PA),Edinboro University,Public
+Chicopee (MA),Elms College,Private
+Atlanta (GA),Emory University,Private
+Albany (NY),Excelsior College,Private
+Fairfield (CT),Fairfield University,Private
+Teaneck (NJ),Fairleigh Dickinson University,Private
+Fayetteville (NC),Fayetteville State University,Public
+Lodi (NJ),Felician College,Private
+Fitchburg (MA),Fitchburg State College,Public
+Tallahassee (FL),Florida A&M University,Public
+Boca Raton (FL),Florida Atlantic University,Public
+Fort Myers (FL),Florida Gulf Coast University,Public
+Miami (FL),Florida International University,Public
+Tallahassee (FL),Florida State University,Public
+Hays (KS),Fort Hays State University,Public
+Boiling Springs (NC),Gardner-Webb University,Private
+Fairfax (VA),George Mason University,Public
+"Washington, D.C.",Georgetown University,Private
+Milledgeville (GA),Georgia College & State University,Public
+Statesboro (GA),Georgia Southern University,Public
+Atlanta (GA),Georgia State University,Public
+Spokane (WA),Gonzaga University,Private
+University Park (IL),Governors State University,Public
+Grambling (LA),Grambling State University,Public
+Allendale (MI),Grand Valley State University,Public
+Gwynedd Valley (PA),Gwynedd-Mercy College,Private
+Hampton (VA),Hampton University,Private
+Searcy (AR),Harding University,Private
+Abilene (TX),Hardin-Simmons University,Private
+Honolulu (HI),Hawaii Pacific University,Private
+Philadelphia (PA),Holy Family University,Private
+Holland (MI),Hope College,Private
+Houston (TX),Houston Baptist University,Private
+"Washington, D.C.",Howard University,Private
+Arcata (CA),Humboldt State University,Public
+New York (NY),Hunter College,Public
+Bangor (ME),Husson College,Private
+Pocatello (ID),Idaho State University,Public
+Normal (IL),Illinois State University,Public
+Terre Haute (IN),Indiana State University,Public
+Bloomington (IN),Indiana University,Public
+Fort Wayne (IN),Indiana University - Purdue University Fort Wayne,Public
+Indianapolis (IN),Indiana University - Purdue University Indianapolis,Public
+Richmond (IN),Indiana University East,Public
+Kokomo (IN),Indiana University Kokomo,Public
+Gary (IN),Indiana University Northwest,Public
+Indiana (PA),Indiana University of Pennsylvania,Public
+South Bend (IN),Indiana University South Bend,Public
+New Albany (IN),Indiana University Southeast,Public
+Indiana (IN),Indiana Wesleyan University,Private
+Jacksonville (AL),Jacksonville State University,Public
+Harrisonburg (VA),James Madison University,Public
+Baltimore (MD),Johns Hopkins University,Private
+Union (NJ),Kean University,Public
+Kennesaw (GA),Kennesaw State University,Public
+Kent (OH),Kent State University,Public
+Grayson (KY),Kentucky Christian College,Private
+Frankfort (KY),Kentucky State University,Public
+Penn Yan (NY),Keuka College,Private
+Philadelphia (PA),La Salle University,Private
+Beaumont (TX),Lamar University,Public
+Bronx (NY),Lehman College,Public
+Romeoville (IL),Lewis University,Private
+Lewiston (ID),Lewis-Clark State College,Public
+Lynchburg (VA),Liberty University,Private
+Loma Linda (CA),Loma Linda University,Private
+Brookville (NY),Long Island University,Private
+Pineville (LA),Louisiana College,Private
+New Orleans (LA),Louisiana State University Health Sciences Center - New Orleans,Public
+Sylvania (OH),Lourdes College,Private
+Chicago (IL),Loyola University Chicago,Private
+New Orleans (LA),Loyola University New Orleans,Private
+Lynchburg (VA),Lynchburg College,Private
+Jacksonville (IL),MacMurray College,Private
+Livonia (MI),Madonna University,Private
+Canton (OH),Malone College,Private
+Mansfield (PA),Mansfield University,Public
+Milwaukee (WI),Marquette University,Private
+Huntington (WV),Marshall University,Public
+Arlington (VA),Marymount University,Private
+Saint Louis (MO),Maryville University,Private
+Scranton (PA),Marywood University,Private
+Lake Charles (LA),McNeese State University,Public
+Augusta (GA),Medical College of Georgia,Public
+Toledo (OH),Medical College of Ohio,Public
+Charleston (SC),Medical University of South Carolina,Public
+Macon (GA),Mercer University,Private
+Dobbs Ferry (NY),Mercy College,Private
+Grantham (PA),Messiah College,Private
+Denver (CO),Metropolitan State College of Denver,Public
+Saint Paul (MN),Metropolitan State University,Public
+Boston (MA),MGH Institute of Health Professions,Private
+East Lansing (MI),Michigan State University,Public
+Murfreesboro (TN),Middle Tennessee State University,Public
+Wichita Falls (TX),Midwestern State University,Public
+Millersville (PA),Millersville University,Public
+Mankato (MN),Minnesota State University - Mankato,Public
+Moorhead (MN),Minnesota State University - Moorhead,Public
+Minot (ND),Minot State University,Public
+Clinton (MS),Mississippi College,Private
+Columbus (MS),Mississippi University for Women,Public
+Rockville Centre (NY),Molloy College,Private
+West Long Branch (NJ),Monmouth University,Private
+Bozeman (MT),Montana State University - Bozeman,Public
+Morehead (KY),Morehead State University,Public
+Columbus (OH),Mount Carmel College of Nursing,Private
+Yankton (SD),Mount Marty College,Private
+Milwaukee (WI),Mount Mary College,Private
+Newburgh (NY),Mount Saint Mary College,Private
+Murray (KY),Murray State University,Public
+San Diego (CA),National University,Private
+Rochester (NY),Nazareth College,Private
+Omaha (NE),Nebraska Methodist College,Private
+Lincoln (NE),Nebraska Wesleyan University,Private
+Aston (PA),Neumann College,Private
+Jersey City (NJ),New Jersey City University,Public
+Las Cruces (NM),New Mexico State University,Public
+Wichita (KS),Newman University,Private
+Niagara University (NY),Niagara University,Private
+Greensboro (NC),North Carolina A&T State University,Public
+Durham (NC),North Carolina Central University,Public
+Fargo (ND),North Dakota State University,Public
+Dahlonega (GA),North Georgia College & State University,Public
+Chicago (IL),North Park University,Private
+Tahlequah (OK),Northeastern State University,Public
+Boston (MA),Northeastern University,Private
+Flagstaff (AZ),Northern Arizona University,Public
+De Kalb (IL),Northern Illinois University,Public
+Highland Heights (KY),Northern Kentucky University,Public
+Marquette (MI),Northern Michigan University,Public
+Nampa (ID),Northwest Nazarene University Idaho,Private
+Natchitoches (LA),Northwestern State University,Public
+Fort Lauderdale (FL),Nova Southeastern University,Private
+Rochester (MI),Oakland University,Public
+Huntsville (AL),Oakwood College,Private
+Columbus (OH),"Ohio State University, The",Public
+Athens (OH),Ohio University,Public
+Shawnee (OK),Oklahoma Baptist University,Private
+Oklahoma City (OK),Oklahoma City University,Private
+Norfolk (VA),Old Dominion University,Public
+Bourbonnais (IL),Olivet Nazarene University,Private
+Portland (OR),Oregon Health & Science University,Public
+Westerville (OH),Otterbein College,Private
+New York (NY),Pace University,Private
+Tacoma (WA),Pacific Lutheran University,Private
+Angwin (CA),Pacific Union College,Private
+West Palm Beach (FL),Palm Beach Atlantic University,Private
+University Park (PA),Pennsylvania State University,Public
+Pittsburg (KS),Pittsburg State University,Public
+San Diego (CA),Point Loma Nazarene University,Private
+Prairie View (TX),Prairie View A&M University,Public
+Aberdeen (SD),Presentation College,Private
+West Lafayette (IN),Purdue University,Public
+Charlotte (NC),Queens University of Charlotte,Private
+Quincy (IL),Quincy University,Private
+Hamden (CT),Quinnipiac University,Private
+Radford (VA),Radford University,Public
+Weston (MA),Regis College,Private
+Providence (RI),Rhode Island College,Public
+Nashua (NH),Rivier College,Private
+Rochester (NY),Roberts Wesleyan College,Private
+Chicago (IL),Rush University,Private
+New Brunswick (NJ),Rutgers University,Public
+Newark (NJ),Rutgers University - Newark,Public
+Fairfield (CT),Sacred Heart University,Private
+Troy (NY),Sage Graduate School,Private
+University Center (MI),Saginaw Valley State University,Public
+Davenport (IA),Saint Ambrose University,Private
+West Hartford (CT),Saint Joseph College,Private
+Saint Louis (MO),Saint Louis University,Private
+Notre Dame (IN),Saint Mary's College,Private
+Northfield (MN),Saint Olaf College,Private
+Jersey City (NJ),Saint Peter's College,Private
+Chicago (IL),Saint Xavier University,Private
+Salem (MA),Salem State College,Public
+Salisbury (MD),Salisbury University,Public
+Newport (RI),Salve Regina University,Private
+Birmingham (AL),Samford University,Private
+Oakland (CA),Samuel Merritt College,Private
+San Diego (CA),San Diego State University,Public
+San Francisco (CA),San Fransisco State University,Public
+San Jose (CA),San Jose State University,Public
+Seattle (WA),Seattle Pacific University,Private
+Seattle (WA),Seattle University,Private
+South Orange (NJ),Seton Hall University,Private
+Winchester (VA),Shenandoah University,Private
+Boston (MA),Simmons College,Private
+Slippery Rock (PA),Slippery Rock University,Public
+Rohnert Park (CA),Sonoma State University,Public
+Orangeburg (SC),South Carolina State University,Public
+Brookings (SD),South Dakota State University,Public
+Cape Girardeau (MO),Southeast Missouri State University,Public
+Hammond (LA),Southeastern Louisiana University,Public
+Collegedale (TN),Southern Adventist University,Private
+Magnolia (AR),Southern Arkansas University,Public
+New Haven (CT),Southern Connecticut State University,Public
+Edwardsville (IL),Southern Illinois University - Edwardsville,Public
+Baton Rouge (LA),Southern University - Baton Rouge,Public
+Springfield (MO),Southwest Missouri State University,Public
+Keene (TX),Southwestern Adventist University,Private
+Weatherford (OK),Southwestern Oklahoma State University,Public
+Louisville (KY),Spalding University,Private
+Saint Cloud (MN),St. Cloud State University,Public
+Rochester (NY),St. John Fisher College,Private
+Carrollton (GA),State University of West Georgia,Public
+Nacogdoches (TX),Stephen F. Austin State University,Public
+Stony Brook (NY),Stony Brook University,Public
+New Paltz (NY),SUNY - New Paltz,Public
+Plattsburgh (NY),SUNY - Plattsburgh,Public
+Brooklyn (NY),SUNY Downstate Medical Center,Public
+Syracuse (NY),SUNY Upstate Medical University,Public
+Syracuse (NY),Syracuse University,Private
+Stephenville (TX),Tarleton State University,Public
+Philadelphia (PA),Temple University,Public
+Nashville (TN),Tennessee State University,Public
+Laredo (TX),Texas A&M International University,Public
+Corpus Christi (TX),Texas A&M University-Corpus Christi,Public
+Texarkana (TX),Texas A&M University-Texarkana,Public
+Fort Worth (TX),Texas Christian University,Private
+Lubbock (TX),Texas Tech University HSC - Lubbock,Public
+Denton (TX),Texas Woman's University,Public
+Philadelphia (PA),Thomas Jefferson University,Private
+Towson (MD),Towson University,Public
+Palos Heights (IL),Trinity Christian College,Private
+Troy (AL),Troy State University,Public
+Tuskegee (AL),Tuskegee University,Private
+Bethesda (MD),Uniformed Services University of the Health Sciences,Public
+Jackson (TN),Union University,Private
+Buffalo (NY),University at Buffalo,Public
+Akron (OH),"University of Akron, The",Public
+Birmingham (AL),University of Alabama - Birmingham,Public
+Huntsville (AL),University of Alabama - Huntsville,Public
+Tuscaloosa (AL),University of Alabama - Tuscaloosa,Public
+Anchorage (AK),University of Alaska Anchorage,Public
+Tucson (AZ),University of Arizona,Public
+Fayetteville (AR),University of Arkansas - Fayetteville,Public
+Little Rock (AR),University of Arkansas - Little Rock,Public
+Monticello (AR),University of Arkansas - Monticello,Public
+Little Rock (AR),University of Arkansas for Medical Sciences,Public
+Los Angeles (CA),University of California - Los Angeles,Public
+San Francisco (CA),University of California - San Francisco,Public
+Conway (AR),University of Central Arkansas,Public
+Orlando (FL),University of Central Florida,Public
+Edmond (OK),University of Central Oklahoma,Public
+Cincinnati (OH),University of Cincinnati,Public
+Colorado Springs (CO),University of Colorado - Colorado Springs,Public
+Denver (CO),University of Colorado Health Sciences Center,Public
+Storrs (CT),University of Connecticut,Public
+Newark (DE),University of Delaware,Public
+Detroit (MI),University of Detroit Mercy,Private
+Evansville (IN),University of Evansville,Private
+Gainesville (FL),University of Florida,Public
+West Hartford (CT),University of Hartford,Private
+Honolulu (HI),University of Hawaii - Manoa,Public
+Chicago (IL),University of Illinois - Chicago,Public
+Indianapolis (IN),University of Indianapolis,Private
+Iowa City (IA),University of Iowa,Public
+Kansas City (KS),University of Kansas Medical Center,Public
+Lexington (KY),University of Kentucky,Public
+Lafayette (LA),University of Louisiana - Lafayette,Public
+Monroe (LA),University of Louisiana - Monroe,Public
+Louisville (KY),University of Louisville,Public
+Orono (ME),University of Maine,Public
+Bismarck (ND),University of Mary,Private
+Baltimore (MD),University of Maryland - Baltimore,Public
+Amherst (MA),University of Massachusetts - Amherst,Public
+Boston (MA),University of Massachusetts - Boston,Public
+North Dartmouth (MA),University of Massachusetts - Dartmouth,Public
+Lowell (MA),University of Massachusetts - Lowell,Public
+Worcester (MA),University of Massachusetts Medical School,Public
+Newark (NJ),University of Medicine & Dentistry of New Jersey,Public
+Memphis (TN),University of Memphis,Public
+Coral Gables (FL),University of Miami,Private
+Ann Arbor (MI),University of Michigan - Ann Arbor,Public
+Flint (MI),University of Michigan - Flint,Public
+Minneapolis (MN),University of Minnesota - Twincities,Public
+Jackson (MS),University of Mississippi Medical Center,Public
+Columbia (MO),University of Missouri - Columbia,Public
+Kansas City (MO),University of Missouri - Kansas City,Public
+Saint Louis (MO),University of Missouri - St. Louis,Public
+Mobile (AL),University of Mobile,Private
+Omaha (NE),University of Nebraska Medical Center,Public
+Las Vegas (NV),"University of Nevada, Las Vegas",Public
+Reno (NV),"University of Nevada, Reno",Public
+Biddeford (ME),University of New England,Private
+Durham (NH),University of New Hampshire,Public
+Albuquerque (NM),University of New Mexico,Public
+Florence (AL),University of North Alabama,Public
+Chapel Hill (NC),University of North Carolina - Chapel Hill,Public
+Greensboro (NC),University of North Carolina - Greensboro,Public
+Pembroke (NC),University of North Carolina - Pembroke,Public
+Wilmington (NC),University of North Carolina - Wilmington,Public
+Grand Forks (ND),University of North Dakota,Public
+Jacksonville (FL),University of North Florida,Public
+Greeley (CO),University of Northern Colorado,Public
+Oklahoma City (OK),University of Oklahoma Health Sciences Center,Public
+Philadelphia (PA),University of Pennsylvania,Private
+Pittsburgh (PA),University of Pittsburgh,Public
+Portland (OR),University of Portland,Private
+Kingston (RI),University of Rhode Island,Public
+Rochester (NY),University of Rochester,Private
+Fort Wayne (IN),University of Saint Francis,Private
+San Diego (CA),University of San Diego,Private
+San Francisco (CA),University of San Francisco,Private
+Scranton (PA),University of Scranton,Private
+Mobile (AL),University of South Alabama,Public
+Columbia (SC),University of South Carolina-Columbia,Public
+Vermillion (SD),University of South Dakota,Public
+Tampa (FL),University of South Florida,Public
+Evansville (IN),University of Southern Indiana,Public
+Portland (ME),University of Southern Maine,Public
+Hattiesburg (MS),University of Southern Mississippi,Public
+Tampa (FL),University of Tampa,Private
+Memphis (TN),"University of Tennessee Health Science Center, The",Public
+Chattanooga (TN),University of Tennessee-Chattanooga,Public
+Knoxville (TN),University of Tennessee-Knoxville,Public
+Martin (TN),University of Tennessee-Martin,Public
+Arlington (TX),University of Texas - Arlington,Public
+Austin (TX),University of Texas - Austin,Public
+El Paso (TX),University of Texas - El Paso,Public
+Edinburg (TX),University of Texas - Pan American,Public
+Tyler (TX),University of Texas - Tyler,Public
+Houston (TX),University of Texas Health Science Center - Houston,Public
+San Antonio (TX),University of Texas Health Science Center - San Antonio,Public
+Galveston (TX),University of Texas Medical Branch,Public
+San Antonio (TX),University of the Incarnate Word,Private
+Salt Lake City (UT),University of Utah,Public
+Burlington (VT),University of Vermont,Public
+Charlottesville (VA),University of Virginia,Public
+Seattle (WA),University of Washington,Public
+Bothell (WA),University of Washington - Bothell,Public
+Tacoma (WA),University of Washington - Tacoma,Public
+Pensacola (FL),University of West Florida,Public
+Eau Claire (WI),University of Wisconsin - Eau Claire,Public
+Green Bay (WI),University of Wisconsin - Green Bay,Public
+Madison (WI),University of Wisconsin - Madison,Public
+Milwaukee (WI),University of Wisconsin - Milwaukee,Public
+Oshkosh (WI),University of Wisconsin - Oshkosh,Public
+Laramie (WY),University of Wyoming,Public
+Pepper Pike (OH),Ursuline College,Private
+Valdosta (GA),Valdosta State University,Public
+Valparaiso (IN),Valparaiso University,Private
+Nashville (TN),Vanderbilt University,Private
+Villanova (PA),Villanova University,Private
+Richmond (VA),Virginia Commonwealth University,Public
+La Crosse (WI),Viterbo University,Private
+Staten Island (NY),Wagner College,Private
+College Place (WA),Walla Walla College,Private
+Topeka (KS),Washburn University,Public
+Pullman (WA),Washington State University,Public
+Detroit (MI),Wayne State University,Public
+Saint Louis (MO),Webster University,Private
+Dover (DE),Wesley College,Private
+West Chester (PA),West Chester University,Public
+Canyon (TX),West Texas A&M University,Public
+Morgantown (WV),West Virginia University,Public
+Cullowhee (NC),Western Carolina University,Public
+Danbury (CT),Western Connecticut State University,Public
+Bowling Green (KY),Western Kentucky University,Public
+Kalamazoo (MI),Western Michigan University,Public
+Pomona (CA),Western University of Health Sciences,Private
+Salt Lake City (UT),Westminster College,Private
+Wheeling (WV),Wheeling Jesuit University,Private
+Wichita (KS),Wichita State University,Public
+Chester (PA),Widener University,Private
+Wilkes-Barre (PA),Wilkes University,Private
+Wayne (NJ),William Paterson University,Public
+New Castle (DE),Wilmington College,Private
+Winona (MN),Winona State University,Public
+Worcester (MA),Worcester State College,Public
+Dayton (OH),Wright State University,Public
+Cincinnati (OH),Xavier University,Private
+New Haven (CT),Yale University,Private
+Youngstown (OH),Youngstown State University,Public

@@ -1,0 +1,132 @@
+Company,Company TCSR vs Industry TCSR,Industry,Rating,Temkin Customer Service Ratings (TCSR)
+USAA,21,Insurance Carrier,1,67%
+Edward Jones,16,Investment Firm,2,65%
+Courtyard by Marriott,13,Hotel Chain,3,64%
+Sam's Club,10,Retailer,3,64%
+Lowe's,10,Retailer,5,63%
+Kohl's,10,Retailer,5,63%
+Marriott,11,Hotel Chain,5,63%
+Hyatt,11,Hotel Chain,8,62%
+BJs Wholesale Club,9,Retailer,8,62%
+Costco,9,Retailer,8,62%
+Walgreens,7,Retailer,11,61%
+Vanguard,11,Investment Firm,11,61%
+Southwest Airlines,17,Airline,13,59%
+Old Navy,6,Retailer,13,59%
+Hilton,7,Hotel Chain,13,59%
+Regions,10,Bank,16,57%
+Hampton Inn,4,Hotel Chain,16,57%
+Charles Schwab,5,Investment Firm,17,59%
+Target,2,Retailer,18,56%
+Rite Aid,2,Retailer,18,56%
+Discover,16,Credit Card Issuer,20,55%
+A credit union,8,Bank,20,55%
+Fidelity Investments,5,Investment Firm,20,55%
+American Express,16,Credit Card Issuer,20,55%
+JCPenney,1,Retailer,20,55%
+Macy's,1,Retailer,25,54%
+Barnes Noble,0,Retailer,25,54%
+eBay,-1,Retailer,27,53%
+JetBlue Airlines,10,Airline,27,53%
+State Farm,6,Insurance Carrier,27,53%
+USAA,5,Bank,30,52%
+Liberty Mutual,5,Insurance Carrier,31,51%
+Wal-Mart,-2,Retailer,31,51%
+Best Western,0,Hotel Chain,31,51%
+Sears,-3,Retailer,34,50%
+Staples,-3,Retailer,34,50%
+American Family,4,Insurance Carrier,34,50%
+Holiday Inn Express,-1,Hotel Chain,34,50%
+A credit union,0,Investment Firm,34,50%
+CVS,-4,Retailer,34,50%
+MetLife,3,Insurance Carrier,34,50%
+Apple,11,Computer Maker,41,49%
+Target,-4,Retailer,40,53%
+Home Depot,-4,Retailer,41,49%
+Borders,-5,Retailer,41,49%
+TD Ameritrade,-1,Investment Firm,44,48%
+ING Direct,-2,Investment Firm,44,48%
+Toys 'R' Us,-6,Retailer,46,47%
+Charles Schwab,-3,Investment Firm,46,47%
+Nationwide,0,Insurance Carrier,46,47%
+TD Bank,-1,Bank,46,47%
+Comfort Inn,-5,Hotel Chain,46,47%
+TracFone,8,Wireless Carrier,51,46%
+Office Depot,-7,Retailer,51,46%
+Best Buy,-7,Retailer,51,46%
+Progressive,-1,Insurance Carrier,51,46%
+SunTrust Bank,-2,Bank,55,45%
+Wells Fargo Advisors,-5,Investment Firm,55,45%
+Holiday Inn,-7,Hotel Chain,55,45%
+Medicare,12,Health Plan,55,45%
+Days Inn,-7,Hotel Chain,55,45%
+AAA,-2,Insurance Carrier,60,44%
+Sony,5,Computer Maker,60,44%
+GEICO,-3,Insurance Carrier,60,44%
+Cox,14,Internet Service Provider,63,43%
+Kaiser Permanente,10,Health Plan,63,43%
+Citziens,-5,Bank,63,43%
+The Hartford,-4,Insurance Carrier,66,42%
+United Airlines,0,Airline,66,42%
+Chase,-5,Bank,66,42%
+21st Century,-5,Insurance Carrier,66,42%
+Continental Airlines,-1,Airline,70,41%
+Allstate,-6,Insurance Carrier,70,41%
+Sprint,2,Wireless Carrier,70,41%
+Wells Fargo/Wachovia Bank,-7,Bank,70,41%
+Travelers,-6,Insurance Carrier,70,41%
+Kmart,-13,Retailer,75,40%
+Bank of America,-7,Bank,75,40%
+Chase,1,Credit Card Issuer,75,40%
+PNC,-7,Bank,75,40%
+ING Direct,-7,Bank,75,40%
+E*TRADE,-10,Investment Firm,80,39%
+Fifth Third,-8,Bank,80,39%
+T-Mobile,1,Wireless Carrier,80,39%
+Dell,1,Computer Maker,80,39%
+Bright House,13,TV Service Provider,80,39%
+Verizon Wireless,0,Wireless Carrier,80,39%
+Capital One,-9,Bank,86,38%
+AT&T,13,TV Service Provider,86,38%
+Optimum (iO) Cablevision,12,TV Service Provider,86,38%
+Hewlett-Packard,-1,Computer Maker,86,38%
+AT&T,-1,Wireless Carrier,90,37%
+United Healthcare,4,Health Plan,90,37%
+Acer,-2,Computer Maker,92,36%
+Wells Fargo,-3,Credit Card Issuer,92,36%
+Road Runner,6,Internet Service Provider,94,35%
+US Bancorp,-13,Bank,94,35%
+eMachines,-4,Computer Maker,96,34%
+Compaq,-4,Computer Maker,96,34%
+Bank of America,-5,Credit Card Issuer,96,34%
+AT&T,4,Internet Service Provider,96,34%
+Humana,0,Health Plan,100,33%
+American Airlines,-10,Airline,100,33%
+DirecTV,7,TV Service Provider,100,33%
+Citibank,-15,Bank,100,33%
+Merrill Lynch,-18,Investment Firm,104,32%
+Cox Communication,7,TV Service Provider,104,32%
+Farmers',-15,Insurance Carrier,106,31%
+Qwest,2,Internet Service Provider,106,31%
+Citigroup,-8,Credit Card Issuer,106,31%
+RadioShack,-22,Retailer,106,31%
+Toshiba,-8,Computer Maker,110,30%
+Capital One,-9,Credit Card Issuer,110,30%
+Verizon,0,Internet Service Provider,112,29%
+AOL,0,Internet Service Provider,112,29%
+Delta/Northwest Airlines,-14,Airline,112,29%
+Medicaid,-4,Health Plan,112,29%
+Cablevision,-1,Internet Service Provider,116,28%
+Time Warner Cable,2,TV Service Provider,117,27%
+Gateway,-13,Computer Maker,118,25%
+HSBC,-22,Bank,118,25%
+Aetna,-8,Health Plan,118,25%
+Dish Network/Echostar,-2,TV Service Provider,121,24%
+Blue Shield of California,-9,Health Plan,121,24%
+Anthem (BCBS),-10,Health Plan,123,23%
+CIGNA,-12,Health Plan,124,21%
+HSBC,-19,Credit Card Issuer,125,20%
+Charter Communications,-10,Internet Service Provider,126,19%
+Comcast,-11,Internet Service Provider,127,18%
+Charter Communications,-10,TV Service Provider,128,26%
+Comcast,-13,TV Service Provider,129,12%

@@ -1,0 +1,158 @@
+Country,Country Code (2-character),Country Code (3-character),Currency,Currency Code
+Albania,AL,ALB,Albanian Lek,ALL
+Algeria,DZ,DZA,Algerian Dinar,DZD
+Angola,AO,AGO,Angola Kwanza,AOA
+Argentina,AR,ARG,Argentine Peso,ARS
+Aruba,AW,ABW,Aruban Guilder,AWG
+Australia,AU,AUS,Australian Dollar,AUD
+Austria,AT,AUT,Austrian Schilling,ATS
+Azerbaijan,AZ,AZE,Azerbaijanian Manat,AZN
+Bahamas,BS,BHS,Bahamas Dollar,BSD
+Bahrain,BH,BHR,Bahraini Dinar,BHD
+Bangladesh,BD,BGD,Bangladeshi Taka,BDT
+Barbados,BB,BRB,Barbados Dollar,BBD
+Belarus,BY,BLR,Belarus Ruble,BYR
+Belgium,BE,BEL,Belgian Franc,BEF
+Belize,BZ,BLZ,Belize Dollar,BZD
+Bermuda,BM,BMU,Bermudaian Dollar,BMD
+Bhutan,BT,BTN,Bhutan Ngultrum,BTN
+Bolivia,BO,BOL,Bolivia Boliviano,BOB
+Bosnia and Herzegovina,BA,BIH,Bosnia Herzegovina Mark,BAM
+Botswana,BW,BWA,Botswana Pula,BWP
+Brazil,BR,BRA,Brazilian Real,BRL
+Brunei Darussalam,BN,BRN,Brunei Dollar,BND
+Bulgaria,BG,BGR,Bulgarian Lev,BGN
+Burundi,BI,BDI,Burundi Franc,BIF
+Canada,CA,CAN,Canadian Dollar,CAD
+Cayman Islands,KY,CYM,Cayman Islands Dollar,KYD
+CFA,,,CFA Franc BCEAO,XAF
+CFP,,,CFP Franc,XPF
+Chile,CL,CHL,Chilean Peso,CLP
+China,CN,CHN,Chinese Yuan,CNY
+China International,CX,CHX,,
+Colombia,CO,COL,Colombian Peso,COP
+Comoros,KM,COM,Comoro Franc,KMF
+"Congo, Republic of",CD,COD,Congolese Franc,CDF
+Costa Rica,CR,CRI,Costa Rican Colon,CRC
+Croatia,HR,HRV,Croatian Kuna,HRK
+Cuba,CU,CUB,Cuban Peso,CUP
+Cyprus,CY,CYP,Cyprus Pound,CYP
+Czech Republic,CZ,CZE,Czech Koruna,CZK
+Denmark,DK,DNK,Danish Krone,DKK
+Dominican Republic,DO,DOM,Dominican Peso,DOP
+East Caribbean,,,East Caribbean Dollar,XCD
+Ecuador,EC,ECU,Ecuadorian Sucre,ECS
+Egypt,EG,EGY,Egyptian Pound,EGP
+El Salvador,SV,SLV,El Salvador Colon,SVC
+Estonia,EE,EST,Estonian Kroon,EEK
+Ethiopia,ET,ETH,Ethiopian Birr,ETB
+European Currency Unit,,ECU,Euro,XEU
+European Monetary Union,EU,EMU,,EUR
+Fiji,FJ,FJI,Fiji Dollar,FJD
+Finland,FI,FIN,Finnish Markka,FIM
+France,FR,FRA,French Franc,FRF
+Gambia,GM,GMB,Gambian Dalasi,GMD
+Georgia,GE,GEO,Georgian Lari,GEL
+Germany,DE,DEU,Deutsche Mark,DEM
+Ghana,GH,GHA,Ghanaian Cedi,GHS
+Greece,GR,GRC,Greek Drachma,GRD
+Guatemala,GT,GTM,Guatemalan Quetzal,GTQ
+Guinea,GN,GIN,Guinean Franc,GNF
+Haiti,HT,HTI,Haitian Gourde,HTG
+Honduras,HN,HND,Honduran Lempira,HNL
+Hong Kong,HK,HKG,Hong Kong Dollar,HKD
+Hungary,HU,HUN,Hungarian Forint,HUF
+Iceland,IS,ISL,Icelandic Krona,ISK
+India,IN,IND,Indian Rupee,INR
+Indonesia,ID,IDN,Indonesian Rupiah,IDR
+Iran,IR,IRN,Iranian Rial,IRR
+Ireland,IE,IRL,Irish Pound,IEP
+Israel,IL,ISR,New Israeli Sheqel,ILS
+Italy,IT,ITA,Italian Lira,ITL
+Jamaica,JM,JAM,Jamaican Dollar,JMD
+Japan,JP,JPN,Japanese Yen,JPY
+Jordan,JO,JOR,Jordanian Dinar,JOD
+Kazakhstan,KZ,KAZ,Kazakhstani Tenge,KZT
+Kenya,KE,KEN,Kenyan Shilling,KES
+"Korea, Republic of",KR,KOR,Korean Won,KRW
+Kuwait,KW,KWT,Kuwaiti Dinar,KWD
+Kyrgyzstan,KG,KGZ,Kyrgyzstani Som,KGS
+Latvia,LV,LVA,Latvia Lat,LVL
+Lebanon,LB,LBN,Lebanese Pound,LBP
+Lesotho,LS,LSO,Lesotho Loti,LSL
+Lithuania,LT,LTU,Lithuania Lita,LTL
+Luxembourg,LU,LUX,Luxembourg Franc,LUF
+Macao,MO,MAC,Macanese Pataca,MOP
+Macedonia,MK,MKD,Macedonian Denar,MKD
+Madagascar,MG,MDG,Malagasy Ariary,MGA
+Malawi,MW,MWI,Malawian Kwacha,MWK
+Malaysia,MY,MYS,Malaysian Ringgit,MYR
+Maldives,MV,MDV,Maldivian Rufiyaa,MVR
+Malta,MT,MLT,Maltese Lira,MTL
+Mauritania,MR,MRT,Mauritanian Ouguiya,MRO
+Mauritius,MU,MUS,Mauritian Rupee,MUR
+Mexico,MX,MEX,Mexican Peso,MXN
+Moldova,MD,MDA,Moldovan Leu,MDL
+Mongolia,MN,MNG,Mongolian Tugrik,MNT
+Morocco,MA,MAR,Moroccan Dirham,MAD
+Mozambique,MZ,MOZ,Mozambique Metical,MZN
+Namibia,NA,NAM,Namibian Dollar,NAD
+Nepal,NP,NPL,Nepalese Rupee,NPR
+Netherlands,NL,NLD,Netherlands Guilder,NLG
+Netherlands Antilles,AN,ANT,Netherlands Antillian Guilder,ANG
+New Zealand,NZ,NZL,New Zealand Dollar,NZD
+Nicaragua,NI,NIC,Nicaragua Gold Cordoba,NIO
+Nigeria,NG,NGA,Nigerian Naira,NGN
+Norway,NO,NOR,Norwegian Krone,NOK
+Oman,OM,OMN,Omani Rial,OMR
+Pakistan,PK,PAK,Pakistani Rupee,PKR
+Panama,PA,PAN,Panamanian Balboa,PAB
+Papua New Guinea,PG,PNG,Papua New Guinean Kina,PGK
+Paraguay,PY,PRY,Paraguayan Guarani,PYG
+Peru,PE,PER,Peruvian Nuevo Sol,PEN
+Philippines,PH,PHL,Philippine Peso,PHP
+Poland,PL,POL,Polish Zloty,PLN
+Portugal,PT,PRT,Portuguese Escudo,PTE
+Qatar,QA,QAT,Qatari Rial,QAR
+Romania,RO,ROU,New Romanian Leu,RON
+Russian Federation,RU,RUS,Russian Ruble,RUB
+Rwanda,RW,RWA,Rwandan Franc,RWF
+Samoa,WS,WSM,Samoan Tala,WST
+Saudi Arabia,SA,SAU,Saudi Arabian Riyal,SAR
+Serbia,RS,SRB,Serbian Dinar,RSD
+Seychelles,SC,SYC,Seychelles Rupee,SCR
+Sierra Leone,SL,SLE,Sierra Leonean Leone,SLL
+Singapore,SG,SGP,Singapore Dollar,SGD
+Slovakia,SK,SVK,Slovak Koruna,SKK
+Slovenia,SI,SVN,Slovenian Tolar,SIT
+Solomon Islands,SB,SLB,Solomon Islands Dollar,SBD
+South Africa,ZA,ZAF,South African Rand,ZAR
+Spain,ES,ESP,Spanish Peseta,ESP
+Special Drawing Rights,,,Special Drawing Rights,XDR
+Sri Lanka,LK,LKA,Sri Lanka Rupee,LKR
+Sudan,SD,SDN,Sudanese Pound,SDG
+Surinam,SR,SUR,Surinam Dollar,SRD
+Swaziland,SZ,SWZ,Swaziland Lilangeni,SZL
+Sweden,SE,SWE,Swedish Krona,SEK
+Switzerland,CH,CHE,Swiss Franc,CHF
+"Taiwan, Province of China",TW,TWN,New Taiwan Dollar,TWD
+Tanzania,TZ,TZA,Tanzanian Shilling,TZS
+Thailand,TH,THA,Thai Baht,THB
+Tonga,TO,TON,Tongan Pa'anga,TOP
+Trinidad and Tobago,TT,TTO,Trinidad & Tobago Dollar,TTD
+Tunisia,TN,TUN,Tunisian Dinar,TND
+Turkey,TR,TUR,Turkish Lira,TRL
+Uganda,UG,UGA,Ugandan Shilling,UGX
+Ukraine,UA,UKR,Ukrainian Hryvnia,UAH
+United Arab Emirates,AE,ARE,United Arab Emirates Dirham,AED
+United Kingdom,GB,GBR,British Pound Sterling,GBP
+United States,US,USA,US Dollar,USD
+Uruguay,UY,URY,Uruguayan New Peso,UYU
+Uzbekistan,UZ,UZB,Uzbekistan Som,UZS
+Vanuatu,VU,VUT,Vanuatu Vatu,VUV
+Venezuela,VE,VEN,Venezuelan Bolivar Fuerte,VEF
+Viet Nam,VN,VNM,Vietnamese Dong,VND
+West Africa,,,West African Franc,XOF
+Yemen,YE,YEM,Yemeni Rial,YER
+Zambia,ZM,ZMB,Zambian Kwacha,ZMK
+Zimbabwe,ZW,ZWE,Zimbabwe Dollar,ZWL
